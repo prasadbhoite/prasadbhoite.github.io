@@ -2,4 +2,28 @@
 title: "About"
 ---
 
-Hi 👋 , This is Prasad Bhoite. I am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida Intarnational University, Miami, USA.
+## In a nutshell
+
+{{< fa user-graduate >}} : BHMS \| MBA-Healthcare Administration \| MPH-Epidemiology \| MS-Data Science & AI
+
+{{< fa envelope title="An envelope" >}} : bhoite.prasad\@gmail.com
+
+{{< fa heart title="A Heart">}} : Telling the story and meaningful insights out of data
+
+## Hi 👋 , I'm Prasad
+
+I am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida Intarnational University, Miami, USA.
+
+## Education
+
+Florida International University, Miami \| Miami, FL
+MS in Data Science & AI \| Aug 2019 - Apr 2022
+
+Florida International University, Miami \| Miami, FL
+MPH-Epidemiology \| Aug 2019 - Apr 2022
+
+## Experience
+
+HWCOM, FIU \| Lead Data Scientist \| Jun 2016 - present
+
+AIMS, FIU \| Graduate Research Assistant \| Apr 2015 - Jun 2016

@@ -7,5 +7,11 @@
   },
   "publications.qmd": {
     "publications.html": "134b00ef"
+  },
+  "CV.qmd": {
+    "CV.html": "27126b30"
+  },
+  "Projects.qmd": {
+    "Projects.html": "947e5879"
   }
 }

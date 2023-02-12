@@ -6,17 +6,40 @@ website:
   title: "Prasad Bhoite"
   navbar:
     right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - Publications.qmd
-      - CV.qmd
+      - text: Home
+        file: index.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Projects"
+        file: Projects.qmd
+      - text: "Publications"
+        file: Publications.qmd
+      - text: "CV"
+        file: CV.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/prasadbhoite/
+      
+      
+      
+  reader-mode: true
+      
+  page-footer: 
+    left: "Copyright 2023, Prasad Bhoite" 
+    right: 
+      - icon: github
+        href: https://github.com/prasadbhoite/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/prasadbhoite/
+      
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
 editor: visual
 
+  
