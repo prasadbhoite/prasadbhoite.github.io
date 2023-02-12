@@ -1,0 +1,16 @@
+{
+  "hash": "335c5d9da681fd6e1eef0950b5aeec35",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nHi 👋 , This is Prasad Bhoite. I am a Lead Data Scientist.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
