@@ -2,13 +2,14 @@
 title: "About"
 ---
 
-## In a nutshell
+## In short
 
-{{< fa user-graduate >}} : BHMS | MBA-Healthcare Administration | MPH-Epidemiology | MS-Data Science & AI
+{{< fa user-graduate >}} : MS-Data Science & AI | MPH-Epidemiology | MBA-Healthcare Administration | BHMS
 
 {{< fa envelope title="An envelope" >}} : bhoite.prasad@gmail.com
 
 {{< fa heart title="A Heart">}} : Telling the story and meaningful insights out of data
+
 
 ## Hi 👋 , I'm Prasad
 
@@ -16,9 +17,13 @@ I am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida Inta
 
 ## Education
 
-Florida International University, Miami \| Miami, FL MS in Data Science & AI \| Aug 2019 - Apr 2022
+MS- Data Science & AI \| Florida International University, Miami, FL \|  Aug 2019 - Apr 2022
 
-Florida International University, Miami \| Miami, FL MPH-Epidemiology \| Aug 2019 - Apr 2022
+MPH-Epidemiology \| Florida International University, Miami, FL \|  Aug 2019 - Apr 2022
+
+MBA-Healthcare Administration \| School of Healthcare Administration, Pune, India \| Aug 2014 - Jul 2016
+
+Bachelor of Homoeopathic Medicine & Surgery \| L.M.F.'s Homoeopathic Medical College, Pune, India \| Aug 2003 - Jul 2009
 
 ## Experience
 
