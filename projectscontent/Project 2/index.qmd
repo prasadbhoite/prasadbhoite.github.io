@@ -1,0 +1,8 @@
+---
+title: "Project 2- SDOH MS-PowerBI Dashbaord"
+author: "Prasad Bhoite"
+date: "2022-04-02"
+categories: [MS-PowerBI, Social Determinants of Health, SQL]
+image: "SDOH.jpg"
+---
+

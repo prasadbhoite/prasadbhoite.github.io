@@ -1,0 +1,7 @@
+---
+title: "Project 3- R for Data Science"
+author: "Prasad Bhoite"
+date: "2022-04-02"
+categories: [R, SQL, Social Determinants of Health]
+image: "SDOH.jpg"
+---
