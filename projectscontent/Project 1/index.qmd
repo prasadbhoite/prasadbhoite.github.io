@@ -11,20 +11,14 @@ Predicting COVID-19 Vaccine Hesitancy among US adults using Household Pulse Surv
 ::: callout-note
 # Quarto blog publish details
 
-This blog was created using [Quarto](https://quarto.org/) and published with Github Pages. 
+This blog was created using [Quarto](https://quarto.org/) and published with Github Pages.
 :::
-
-
-
 
 ::: callout-tip
 # Github repository for code
 
 You can find the code to reproduce this report at [prasadbhoite/Classification_Algorithms-Healthcare_access_BRFSS-2018](https://github.com/prasadbhoite/Classification_Algorithms-Healthcare_access_BRFSS-2018)
 :::
-
-
-
 
 ::: callout-warning
 The *Code structure* only shows the basic minimum structure you need to follow to replicate the plot creation. The *Code extended* tab shows the actual code in use to create the plots and it may use reproducible functions shown above.
