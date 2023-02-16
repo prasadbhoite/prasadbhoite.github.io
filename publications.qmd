@@ -2,7 +2,7 @@
 
 <head>
 
-<title>Papers</title>
+<title>Publications</title>
 
 </head>
 
