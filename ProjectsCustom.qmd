@@ -1,0 +1,35 @@
+
+
+## Project 1
+
+:::: columns
+
+::: {.column width="55%"}
+Description 1
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+Image 1
+:::
+
+::::
+
+## Project 2
+
+:::: columns
+
+::: {.column width="40%"}
+Image 2
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+Description 2
+:::
+
+::::

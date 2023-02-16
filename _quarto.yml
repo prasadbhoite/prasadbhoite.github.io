@@ -13,6 +13,8 @@ website:
         file: about.qmd
       #- text: "Projects"
       #  file: Projects.qmd
+      # - text: "ProjectsCustom"
+      #   file: ProjectsCustom.qmd
       - text: "Publications"
         file: Publications.qmd
       - text: "CV"

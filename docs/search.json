@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Prasad Bhoite",
     "section": "",
-    "text": "Hi 👋 , I’m Prasad\nI am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida International University, Miami, USA.\nI am a foreign medical graduate with a unique educational background comprising clinical, social, statistical, and computational studies. I lead the data team and oversee statistical and machine learning projects funded internally by the university, the state of Floida, and other funding clinical institutions.\nI enjoy displaying the value of analytics using tools such as Python, R, SQL, ArcGIS, MS-PowerBI, Atlas.ti, MS-Azure. I have extensive experience and expertise in Data Management, Machine Learning, Business Intelligence, and Statistical & Predictive Analytics.\nThank you for visiting!"
+    "text": "Hi 👋 , I’m Prasad\nI am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida International University, Miami, USA.\nI am a foreign medical graduate with a unique educational background comprising clinical, social, statistical, and computational studies. I lead the data team and oversee statistical and machine learning projects funded internally by the university, the state of Florida, and other funding clinical institutions.\nI enjoy displaying the value of analytics using tools such as Python, R, SQL, ArcGIS, MS-PowerBI, Atlas.ti, MS-Azure. I have extensive experience and expertise in Data Management, Machine Learning, Business Intelligence, and Statistical & Predictive Analytics.\nThank you for visiting!"
   },
   {
     "objectID": "about.html",
@@ -68,5 +68,19 @@
     "title": "Prasad Bhoite",
     "section": "",
     "text": "Papers\n\n\n\n\nPapers\n\nClick “[PDF]” to download each paper.\n\n\n2022\n\n\nGarba NA, Sacca L, Clarke R,  Bhoite P, Buschman J, Oller V, Napolitano N, Hyppolite S, Lacroix S, Archibald A, Hamilton O, Ash T, Brown DR. 2022. Addressing Food Insecurity during the COVID-19 Pandemic: Intervention Outcomes and Lessons Learned from a Collaborative Food Delivery Response in South Florida’s Underserved Households.Int J Environ Res Public Health., 2022 Jul 2;19(13):8130. https://doi.org/10.3390/ijerph19138130 [PDF]\n\nStumbar SE, Garba NA, de la Cruz M, Bhoite P, Uchiyama E.: Integration of Sex and Gender Minority Standardized Patients into a Workshop on Gender-Inclusive Patient Care: Exploring Medical Student Perspectives. South Med J. 2022 Sep;115(9):722-726. https://doi.org/10.14423/smj.0000000000001435\n\n2021\n\n\nGarba NA, Anderson F, Schneider GW, Bisschops J,  Bhoite P,  Lage OO, Sackstein R, Brown DR. 2022 Caring for Vulnerable Communities in Miami Dade County during the COVID- 19 Pandemic. J Health Care Poor Underserved. 2021;32(2):598-606. https://doi.org/10.1353/hpu.2021.0088 [PDF]\n\nStumbar SE, Garba NA, de la Cruz M, Bhoite P, Holley M, Adams C, Virani A, Kale N.: Sexual Health Teaching in the Family Medicine Clerkship: Results of a CERA Survey. PRiMER. 2021 Jul 9;5:29. https://doi.org/10.22454/primer.2021.503960\n\n2020\n\n\nSairenji T, Stumbar SE, Garba NA, Bhoite P, de la Cruz MS, Stubbs C, Emerson J, Babalola D, Kelley D, Everard KM.: Moving Toward a Standardized National Family Medicine Subinternship Curriculum: Results From a CERA Clerkship Directors Survey. Fam Med. 2020 Jun;52(7):523-527. https://doi.org/10.22454/fammed.2020.209444"
+  },
+  {
+    "objectID": "ProjectsCustom.html",
+    "href": "ProjectsCustom.html",
+    "title": "Prasad Bhoite",
+    "section": "",
+    "text": "Description 1\n\n\n\nImage 1"
+  },
+  {
+    "objectID": "ProjectsCustom.html#project-2",
+    "href": "ProjectsCustom.html#project-2",
+    "title": "Prasad Bhoite",
+    "section": "Project 2",
+    "text": "Project 2\n\n\nImage 2\n\n\n\nDescription 2"
   }
 ]
