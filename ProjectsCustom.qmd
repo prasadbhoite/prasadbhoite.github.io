@@ -1,12 +1,9 @@
-
-
 ## Using `R` to Extract, Organize, & Analyze Complex SDOH Data
 
-:::: columns
-
+::: columns
 ::: {.column width="55%"}
-This was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.  
-This presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting..... [Continue reading](https://rpubs.com/igonz009/953071){target=_blank}
+This was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\
+This presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting..... [Continue reading](https://rpubs.com/igonz009/953071){target="_blank"}
 :::
 
 ::: {.column width="5%"}
@@ -15,13 +12,11 @@ This presentation takes you through the example and code snippets to show how R 
 ::: {.column width="40%"}
 ![](images/DataAnalysisProcess)
 :::
-
-::::
+:::
 
 ## Project 2
 
-:::: columns
-
+::: columns
 ::: {.column width="40%"}
 Image 2
 :::
@@ -32,5 +27,4 @@ Image 2
 ::: {.column width="55%"}
 Description 2
 :::
-
-::::
+:::
