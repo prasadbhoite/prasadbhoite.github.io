@@ -122,14 +122,21 @@
     "objectID": "Projects.html#business-intelligence-projects",
     "href": "Projects.html#business-intelligence-projects",
     "title": "Prasad Bhoite",
-    "section": "2: Business Intelligence Projects",
-    "text": "2: Business Intelligence Projects\n\n\nImage 2\n\n\n\nDescription 2"
+    "section": "3: Business Intelligence Projects",
+    "text": "3: Business Intelligence Projects\n\n\nDescription.\n\n\n\nImage"
   },
   {
     "objectID": "Projects.html#machine-learning-projects",
     "href": "Projects.html#machine-learning-projects",
     "title": "Prasad Bhoite",
     "section": "3: Machine Learning Projects",
-    "text": "3: Machine Learning Projects\n\n\nImage 3\n\n\n\nDescription 3"
+    "text": "3: Machine Learning Projects\n\n\n\n\n\n\nDescription 3"
+  },
+  {
+    "objectID": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms",
+    "href": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms",
+    "title": "Prasad Bhoite",
+    "section": "2: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms",
+    "text": "2: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms\n\n\n\n\n\n\nThis project is about predicting COVID-19 vaccine hesitancy among US adults using Classification machine learning algorithms on Household Pulse Survey data."
   }
 ]
