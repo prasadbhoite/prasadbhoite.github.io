@@ -14,5 +14,13 @@
       "/projectscontent/Project 2/index.html",
       "/projectscontent/Project 3/index.html"
     ]
+  },
+  {
+    "listing": "/ProjectsCustoms.html",
+    "items": [
+      "/projectscontent/Project 1/index.html",
+      "/projectscontent/Project 2/index.html",
+      "/projectscontent/Project 3/index.html"
+    ]
   }
 ]

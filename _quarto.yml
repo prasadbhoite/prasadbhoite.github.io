@@ -11,10 +11,10 @@ website:
         file: index.qmd
       - text: "About"
         file: about.qmd
+      - text: "Projects"
+        file: Projects.qmd
       #- text: "Projects"
       #  file: Projects.qmd
-      #- text: "ProjectsCustom"
-      #  file: ProjectsCustom.qmd
       - text: "Publications"
         file: Publications.qmd
       - text: "CV"

@@ -44,9 +44,9 @@
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
-    "title": "Projects",
+    "title": "Prasad Bhoite",
     "section": "",
-    "text": "Project 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 2- SDOH MS-PowerBI Dashbaord\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nSocial Determinants of Health\n\n\nSQL\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
+    "text": "Projects"
   },
   {
     "objectID": "projectscontent/Project 1/index.html",
@@ -82,5 +82,54 @@
     "title": "Prasad Bhoite",
     "section": "Project 2",
     "text": "Project 2\n\n\nImage 2\n\n\n\nDescription 2"
+  },
+  {
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
+    "title": "Prasad Bhoite",
+    "section": "Project 2",
+    "text": "Project 2\n\n\nImage 2\n\n\n\nDescription 2"
+  },
+  {
+    "objectID": "ProjectsCustoms.html",
+    "href": "ProjectsCustoms.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 2- SDOH MS-PowerBI Dashbaord\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nSocial Determinants of Health\n\n\nSQL\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
+    "href": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
+    "title": "Prasad Bhoite",
+    "section": "1: Using R to Extract, Organize, & Analyze Complex SDOH Data",
+    "text": "1: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
+  },
+  {
+    "objectID": "Projects.html#project-1-using-r-to-extract-organize-analyze-complex-sdoh-data",
+    "href": "Projects.html#project-1-using-r-to-extract-organize-analyze-complex-sdoh-data",
+    "title": "Prasad Bhoite",
+    "section": "Project 1: Using R to Extract, Organize, & Analyze Complex SDOH Data",
+    "text": "Project 1: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
+  },
+  {
+    "objectID": "Projects.html#business-intelligence-projects.",
+    "href": "Projects.html#business-intelligence-projects.",
+    "title": "Prasad Bhoite",
+    "section": "2: Business Intelligence Projects.",
+    "text": "2: Business Intelligence Projects.\n\n\nImage 2\n\n\n\nDescription 2"
+  },
+  {
+    "objectID": "Projects.html#business-intelligence-projects",
+    "href": "Projects.html#business-intelligence-projects",
+    "title": "Prasad Bhoite",
+    "section": "2: Business Intelligence Projects",
+    "text": "2: Business Intelligence Projects\n\n\nImage 2\n\n\n\nDescription 2"
+  },
+  {
+    "objectID": "Projects.html#machine-learning-projects",
+    "href": "Projects.html#machine-learning-projects",
+    "title": "Prasad Bhoite",
+    "section": "3: Machine Learning Projects",
+    "text": "3: Machine Learning Projects\n\n\nImage 3\n\n\n\nDescription 3"
   }
 ]
