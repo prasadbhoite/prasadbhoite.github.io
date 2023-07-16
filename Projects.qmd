@@ -50,7 +50,7 @@ Description 2
 
 ::: columns
 ::: {.column width="55%"}
-This project is about predicting COVID-19 vaccine hesitancy among US adults using Classification machine learning algorithms on Household Pulse Survey data(https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html).
+This project is about predicting COVID-19 vaccine hesitancy among US adults using Classification machine learning algorithms on [Household Pulse Survey data](https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html).
 :::
 
 ::: {.column width="5%"}
