@@ -35,7 +35,7 @@ This presentation takes you through the example and code snippets to show how R 
 
 ::: columns
 ::: {.column width="40%"}
-![](images/COVIDVaccineHesitancyPrediction)
+![](images/COVIDVaccineHesitancyPrediction.png)
 :::
 
 ::: {.column width="5%"}
@@ -50,7 +50,7 @@ This project is about predicting COVID-19 vaccine hesitancy among US adults usin
 
 ::: columns
 ::: {.column width="55%"}
-Description.
+Description
 :::
 
 ::: {.column width="5%"}
