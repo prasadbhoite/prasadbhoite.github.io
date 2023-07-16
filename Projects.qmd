@@ -31,32 +31,32 @@ This presentation takes you through the example and code snippets to show how R 
 :::
 :::
 
-## 2: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms
+## 2: Business Intelligence Projects
 
 ::: columns
 ::: {.column width="40%"}
-![](images/COVIDVaccineHesitancyPrediction.png)
+Image 2
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="55%"}
-This project is about predicting COVID-19 vaccine hesitancy among US adults using Classification machine learning algorithms on [Household Pulse Survey data](https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html).
+Description 2
 :::
 :::
 
-## 3: Business Intelligence Projects
+## 3: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms
 
 ::: columns
 ::: {.column width="55%"}
-Description
+This project is about predicting COVID-19 vaccine hesitancy among US adults using Classification machine learning algorithms on Household Pulse Survey data(https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html).
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-Image
+![](images/CovidVaccineHesitancyPrediction)
 :::
 :::
