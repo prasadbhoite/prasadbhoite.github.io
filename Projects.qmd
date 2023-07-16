@@ -35,7 +35,7 @@ This presentation takes you through the example and code snippets to show how R 
 
 ::: columns
 ::: {.column width="40%"}
-![](images/CovidVaccineHesitancyPrediction)
+![](images/COVIDVaccineHesitancyPrediction)
 :::
 
 ::: {.column width="5%"}
