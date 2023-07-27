@@ -10,10 +10,9 @@
 
 ::: {.callout-important appearance="default"}
 ## Pay Attention
+
 Due to non-disclosure agreements, I am unable to showcase all of my projects here. Feel free to contact me for a discussion on my full range of work. Thank you for your understanding and support.
 :::
-
-
 
 ## 1: Using `R` to Extract, Organize, & Analyze Complex SDOH Data
 
@@ -57,6 +56,6 @@ This project is about predicting COVID-19 vaccine hesitancy among US adults usin
 :::
 
 ::: {.column width="40%"}
-![](images/CovidVaccineHesitancyPrediction.PNG)
+![](images/CovidVac)
 :::
 :::
