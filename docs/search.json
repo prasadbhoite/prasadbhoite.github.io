@@ -95,14 +95,14 @@
     "href": "ProjectsCustoms.html",
     "title": "Projects",
     "section": "",
-    "text": "Project 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 2- SDOH MS-PowerBI Dashbaord\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nSocial Determinants of Health\n\n\nSQL\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
+    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
     "href": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
     "title": "Prasad Bhoite",
-    "section": "1: Using R to Extract, Organize, & Analyze Complex SDOH Data",
-    "text": "1: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
+    "section": "3: Using R to Extract, Organize, & Analyze Complex SDOH Data",
+    "text": "3: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
   },
   {
     "objectID": "Projects.html#project-1-using-r-to-extract-organize-analyze-complex-sdoh-data",
@@ -122,8 +122,8 @@
     "objectID": "Projects.html#business-intelligence-projects",
     "href": "Projects.html#business-intelligence-projects",
     "title": "Prasad Bhoite",
-    "section": "2: Business Intelligence Projects",
-    "text": "2: Business Intelligence Projects\n\n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading"
+    "section": "4: Business Intelligence Projects",
+    "text": "4: Business Intelligence Projects\n\n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading"
   },
   {
     "objectID": "Projects.html#machine-learning-projects",
@@ -136,7 +136,112 @@
     "objectID": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms",
     "href": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms",
     "title": "Prasad Bhoite",
+    "section": "1: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms",
+    "text": "1: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms\n\n\nThe primary focus of this project revolves around predicting COVID-19 vaccine hesitancy among adults in the United States. To achieve this objective, I employ classification machine learning algorithms and analyze data sourced from the Household Pulse Survey data. Through rigorous examination and interpretation of the data, I aim to gain valuable insights into the factors influencing vaccine hesitancy, ultimately contributing to a better understanding of vaccination patterns and behaviors among the US population…..Continue reading"
+  },
+  {
+    "objectID": "Projects.html#data-warehousing",
+    "href": "Projects.html#data-warehousing",
+    "title": "Prasad Bhoite",
+    "section": "4: Data Warehousing",
+    "text": "4: Data Warehousing\n\n::: {.colum n width=“40%”} \n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading\n\n:::"
+  },
+  {
+    "objectID": "projectscontent/Project 2/index.html",
+    "href": "projectscontent/Project 2/index.html",
+    "title": "Business Intelligence (BI) Projects",
+    "section": "",
+    "text": "This page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service."
+  },
+  {
+    "objectID": "projectscontent/Project 2/index.html#project-2",
+    "href": "projectscontent/Project 2/index.html#project-2",
+    "title": "Business Intelligence Projects",
+    "section": "Project 2:",
+    "text": "Project 2:"
+  },
+  {
+    "objectID": "projectscontent/Project 2/index.html#project-3",
+    "href": "projectscontent/Project 2/index.html#project-3",
+    "title": "Business Intelligence Projects",
+    "section": "Project 3:",
+    "text": "Project 3:"
+  },
+  {
+    "objectID": "projectscontent/Project 2/index.html#bi-project-2",
+    "href": "projectscontent/Project 2/index.html#bi-project-2",
+    "title": "Business Intelligence (BI) Projects",
+    "section": "BI Project 2:",
+    "text": "BI Project 2:"
+  },
+  {
+    "objectID": "projectscontent/Project 2/index.html#bi-project-3",
+    "href": "projectscontent/Project 2/index.html#bi-project-3",
+    "title": "Business Intelligence (BI) Projects",
+    "section": "BI Project 3:",
+    "text": "BI Project 3:"
+  },
+  {
+    "objectID": "projectscontent/Project 2/index.html#bi-project-1",
+    "href": "projectscontent/Project 2/index.html#bi-project-1",
+    "title": "Business Intelligence (BI) Projects",
+    "section": "BI Project 1:",
+    "text": "BI Project 1:"
+  },
+  {
+    "objectID": "Projects.html#data-warehouseengineering-project",
+    "href": "Projects.html#data-warehouseengineering-project",
+    "title": "Prasad Bhoite",
+    "section": "2: Data Warehouse/Engineering Project",
+    "text": "2: Data Warehouse/Engineering Project\n\n\n\n\n\n\nIn this project, I played a pivotal role as the lead architect, responsible for meticulously crafting, designing, and spearheading the development of a comprehensive data warehouse on Azure Synapse Analytics. By starting from scratch and leveraging the power of the Azure platform, we successfully built a sophisticated data infrastructure. This endeavor stands as a testament to my formidable data engineering prowess and showcases the depth of my expertise in this domain…..Continue reading"
+  },
+  {
+    "objectID": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms-1",
+    "href": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms-1",
+    "title": "Prasad Bhoite",
     "section": "3: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms",
-    "text": "3: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms\n\n\nThis project is about predicting COVID-19 vaccine hesitancy among US adults using Classification machine learning algorithms on Household Pulse Survey data."
+    "text": "3: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms\n\n\nThe primary focus of this project revolves around predicting COVID-19 vaccine hesitancy among adults in the United States. To achieve this objective, I employ classification machine learning algorithms and analyze data sourced from the Household Pulse Survey data. Through rigorous examination and interpretation of the data, I aim to gain valuable insights into the factors influencing vaccine hesitancy, ultimately contributing to a better understanding of vaccination patterns and behaviors among the US population…..Continue reading"
+  },
+  {
+    "objectID": "Projects.html#data-warehouseengineering-project-1",
+    "href": "Projects.html#data-warehouseengineering-project-1",
+    "title": "Prasad Bhoite",
+    "section": "4: Data Warehouse/Engineering Project",
+    "text": "4: Data Warehouse/Engineering Project\n\n\n\n\n\n\nIn this project, I played a pivotal role as the lead architect, responsible for meticulously crafting, designing, and spearheading the development of a comprehensive data warehouse on Azure Synapse Analytics. By starting from scratch and leveraging the power of the Azure platform, we successfully built a sophisticated data infrastructure. This endeavor stands as a testament to my formidable data engineering prowess and showcases the depth of my expertise in this domain…..Continue reading"
+  },
+  {
+    "objectID": "projectscontent/Project 3/index.html",
+    "href": "projectscontent/Project 3/index.html",
+    "title": "Project 1- COVID-19 Vaccine Hesitancy",
+    "section": "",
+    "text": "Predicting COVID-19 Vaccine Hesitancy among US adults using Household Pulse Survey Data.\n\n\n\n\n\n\nQuarto blog publish details\n\n\n\nThis blog was created using Quarto and published with Github Pages.\n\n\n\n\n\n\n\n\nGithub repository for code\n\n\n\nYou can find the code to reproduce this report at prasadbhoite/Classification_Algorithms-Healthcare_access_BRFSS-2018\n\n\n\n\n\n\n\n\nWarning\n\n\n\nThe Code structure only shows the basic minimum structure you need to follow to replicate the plot creation. The Code extended tab shows the actual code in use to create the plots and it may use reproducible functions shown above."
+  },
+  {
+    "objectID": "projectscontent/Project 4/index.html",
+    "href": "projectscontent/Project 4/index.html",
+    "title": "Business Intelligence (BI) Projects",
+    "section": "",
+    "text": "This page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service."
+  },
+  {
+    "objectID": "projectscontent/Project 4/index.html#bi-project-1",
+    "href": "projectscontent/Project 4/index.html#bi-project-1",
+    "title": "Business Intelligence (BI) Projects",
+    "section": "BI Project 1:",
+    "text": "BI Project 1:"
+  },
+  {
+    "objectID": "projectscontent/Project 4/index.html#bi-project-2",
+    "href": "projectscontent/Project 4/index.html#bi-project-2",
+    "title": "Business Intelligence (BI) Projects",
+    "section": "BI Project 2:",
+    "text": "BI Project 2:"
+  },
+  {
+    "objectID": "projectscontent/Project 4/index.html#bi-project-3",
+    "href": "projectscontent/Project 4/index.html#bi-project-3",
+    "title": "Business Intelligence (BI) Projects",
+    "section": "BI Project 3:",
+    "text": "BI Project 3:"
   }
 ]

@@ -1,0 +1,43 @@
+---
+title: "Business Intelligence (BI) Projects"
+author: "Prasad Bhoite"
+#date: "2022-04-02"
+categories: [MS-PowerBI, Advanced SQL, Social Determinants of Health, Healthcare]
+image: "SDOH.jpg"
+---
+
+This page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service.
+
+
+## BI Project 1:
+![](ExecutiveSummary.png)
+<br>
+<br>
+<br>
+
+
+## BI Project 2:
+
+![](HRPStatusBar.png)
+
+
+<br>
+<br>
+
+![](HRPURFO.png)
+
+
+<br>
+<br>
+
+![](HRPSnapshot.png)
+
+
+<br>
+<br>
+<br>
+
+
+## BI Project 3:
+
+![](CurriculumEngagement.png)

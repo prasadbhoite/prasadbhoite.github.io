@@ -1,25 +1,7 @@
 ---
-title: "Project 1- COVID-19 Vaccine Hesitancy"
+title: "Project 3- R for Data Science"
 author: "Prasad Bhoite"
 date: "2022-04-02"
-categories: [R, Python, COVID, Machine Learning, Flask ]
+categories: [R, SQL, Social Determinants of Health]
 image: "SDOH.jpg"
 ---
-
-Predicting COVID-19 Vaccine Hesitancy among US adults using Household Pulse Survey Data.
-
-::: callout-note
-# Quarto blog publish details
-
-This blog was created using [Quarto](https://quarto.org/) and published with Github Pages.
-:::
-
-::: callout-tip
-# Github repository for code
-
-You can find the code to reproduce this report at [prasadbhoite/Classification_Algorithms-Healthcare_access_BRFSS-2018](https://github.com/prasadbhoite/Classification_Algorithms-Healthcare_access_BRFSS-2018)
-:::
-
-::: callout-warning
-The *Code structure* only shows the basic minimum structure you need to follow to replicate the plot creation. The *Code extended* tab shows the actual code in use to create the plots and it may use reproducible functions shown above.
-:::
