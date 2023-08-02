@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Prasad Bhoite"
+  
+  favicon: images/Logo_PBB.png
 
   navbar:
     right:
