@@ -2,9 +2,6 @@
 title: "CV"
 ---
 
+<iframe src="images/CV_PrasadBhoite1.pdf" width="800" height="800">
 
-<iframe
-src="images/CV_PrasadBhoite.pdf"
-width="800"
-height="800">
 </iframe>
