@@ -11,7 +11,7 @@ title: "About"
 {{< fa heart title="A Heart">}} : Telling the story and meaningful insights out of data
 
 
-## Hi 👋 , I'm Prasad
+## Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prasad
 
 I am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida Intarnational University, Miami, USA.
 
@@ -39,4 +39,31 @@ Clinical Assistant \| "Prayas" Amrita Clinic, Pune, MH, India \| May 2009 - Jul 
 
 Resident \| Mankar Pediatric Hospital, Pune, MH, India \| Jan 2009 - Dec 2009
 
-Resident \| Madhukar Genera Hospital, Pune, MH, India \| Jul 2008 - Dec 2008
+Resident \| Madhukar General Hospital, Pune, MH, India \| Jul 2008 - Dec 2008
+
+
+
+
+
+
+
+## Certifications & Badges
+
+- <a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/602678976B03E6EF?sharingId=A37ED2CA2783347"><img src="images/AZ Data Engineer Badge.png" alt="Microsoft Certified: Azure Data Engineer Associate (DP-203)" width="220"></a> 
+[Microsoft Certified: Azure Data Engineer Associate (DP-203)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/602678976B03E6EF?sharingId=A37ED2CA2783347)
+
+- <a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/9AC7641C7A24B35?sharingId=A37ED2CA2783347"><img src="images/Azure PBI Data Analyst Badge.png" alt="Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)" width="210"></a> 
+[Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/9AC7641C7A24B35?sharingId=A37ED2CA2783347)
+
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/DFA8F5F9A48D7E74?sharingId=A37ED2CA2783347"><img src="images/Azure AI fundamentals badge.jpeg" alt="Microsoft Certified: Azure AI Fundamentals (AI-900)" width="140"></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/DFA8F5F9A48D7E74?sharingId=A37ED2CA2783347)
+
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/8D667324EC003737?sharingId=A37ED2CA2783347"><img src="images/Azure Data Fundamentals Badge.png" alt="Microsoft Certified: Azure Data Fundamentals (DP-900)" width="120"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/8D667324EC003737?sharingId=A37ED2CA2783347)
+
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/B33899F3DF49BEB9?sharingId=A37ED2CA2783347"><img src="images/Azure Fundamentals Badge.png" alt="Microsoft Certified: Azure Fundamentals" width="120"></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/B33899F3DF49BEB9?sharingId=A37ED2CA2783347)
+
+
+
+

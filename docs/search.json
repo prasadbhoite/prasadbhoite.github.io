@@ -18,7 +18,7 @@
     "href": "about.html#experience",
     "title": "About",
     "section": "Experience",
-    "text": "Experience\nLead Data Scientist | Herbert Wertheim College of Medicine, FIU | Jun 2016 - present\nGraduate Research Assistant | Office of Analysis & Information Management, FIU | Apr 2015 - Jun 2016\nResearch Assistant | Department of Epidemiology, Robert Stempel College of Public Health & Social Work, FIU | Sept 2015 - Jun 2016\nStudent Assistant | Herbert Wertheim College of Medicine, FIU | Oct 2014 - Apr 2015\nClinical Assistant | “Prayas” Amrita Clinic, Pune, MH, India | May 2009 - Jul 2014\nResident | Mankar Pediatric Hospital, Pune, MH, India | Jan 2009 - Dec 2009\nResident | Madhukar Genera Hospital, Pune, MH, India | Jul 2008 - Dec 2008"
+    "text": "Experience\nLead Data Scientist | Herbert Wertheim College of Medicine, FIU | Jun 2016 - present\nGraduate Research Assistant | Office of Analysis & Information Management, FIU | Apr 2015 - Jun 2016\nResearch Assistant | Department of Epidemiology, Robert Stempel College of Public Health & Social Work, FIU | Sept 2015 - Jun 2016\nStudent Assistant | Herbert Wertheim College of Medicine, FIU | Oct 2014 - Apr 2015\nClinical Assistant | “Prayas” Amrita Clinic, Pune, MH, India | May 2009 - Jul 2014\nResident | Mankar Pediatric Hospital, Pune, MH, India | Jan 2009 - Dec 2009\nResident | Madhukar General Hospital, Pune, MH, India | Jul 2008 - Dec 2008"
   },
   {
     "objectID": "about.html#hi-this-is-prasad-bhoite.",
@@ -31,8 +31,8 @@
     "objectID": "about.html#hi-im-prasad",
     "href": "about.html#hi-im-prasad",
     "title": "About",
-    "section": "Hi 👋 , I’m Prasad",
-    "text": "Hi 👋 , I’m Prasad\nI am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida Intarnational University, Miami, USA."
+    "section": "Hi , I’m Prasad",
+    "text": "Hi , I’m Prasad\nI am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida Intarnational University, Miami, USA."
   },
   {
     "objectID": "about.html#education",
@@ -243,5 +243,26 @@
     "title": "Business Intelligence (BI) Projects",
     "section": "BI Project 3:",
     "text": "BI Project 3:"
+  },
+  {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
+    "section": "Certifications",
+    "text": "Certifications\n\nMicrosoft Certified: Azure Data Engineer Associate (DP-203)\nMicrosoft Certified: Azure Power BI Data Analyst Associate (PL-300)\nMicrosoft Certified: Azure AI Fundamentals (AI-900)\nMicrosoft Certified: Azure Data Fundamentals (DP-900)\nMicrosoft Certified: Azure Fundamentals (AZ-900)"
+  },
+  {
+    "objectID": "about.html#certification-badges",
+    "href": "about.html#certification-badges",
+    "title": "About",
+    "section": "Certification Badges",
+    "text": "Certification Badges\n\n Microsoft Certified: Azure Data Engineer Associate (DP-203)\n Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)\n                   Microsoft Certified: Azure AI Fundamentals (AI-900)\n                       Microsoft Certified: Azure Data Fundamentals (DP-900)\n                        Microsoft Certified: Azure Fundamentals (AZ-900)"
+  },
+  {
+    "objectID": "about.html#certifications-badges",
+    "href": "about.html#certifications-badges",
+    "title": "About",
+    "section": "Certifications & Badges",
+    "text": "Certifications & Badges\n\n Microsoft Certified: Azure Data Engineer Associate (DP-203)\n Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)\n                   Microsoft Certified: Azure AI Fundamentals (AI-900)\n                       Microsoft Certified: Azure Data Fundamentals (DP-900)\n                        Microsoft Certified: Azure Fundamentals (AZ-900)"
   }
 ]
