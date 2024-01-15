@@ -8,23 +8,17 @@
 
 <h2>Projects</h2>
 
-
 ::: {.callout-important appearance="default"}
 ## Pay Attention
 
 Due to non-disclosure agreements, I am unable to showcase all of my projects here. Rest assured, the data displayed in these projects does not contain any protected health information (PHI) as per HIPAA. Feel free to contact me for a discussion on my full range of work. Thank you for your understanding and support.
 :::
 
-
-
-
-
-
 ## 1: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms
 
 ::: columns
 ::: {.column width="55%"}
-The primary focus of this project revolves around predicting COVID-19 vaccine hesitancy among adults in the United States. To achieve this objective, I employ classification machine learning algorithms and analyze data sourced from the [Household Pulse Survey data](https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html). Through rigorous examination and interpretation of the data, I aim to gain valuable insights into the factors influencing vaccine hesitancy, ultimately contributing to a better understanding of vaccination patterns and behaviors among the US population.....[Continue reading](projectscontent/Project 1/VaccineHesitancy_PBB.pdf){target="_blank"}
+The primary focus of this project revolves around predicting COVID-19 vaccine hesitancy among adults in the United States. To achieve this objective, I employ classification machine learning algorithms and analyze data sourced from the [Household Pulse Survey data](https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html). Through rigorous examination and interpretation of the data, I aim to gain valuable insights into the factors influencing vaccine hesitancy, ultimately contributing to a better understanding of vaccination patterns and behaviors among the US population.....[Continue reading](projectscontent/Project%201/VaccineHesitancy_PBB.pdf){target="_blank"}
 :::
 
 ::: {.column width="5%"}
@@ -34,9 +28,6 @@ The primary focus of this project revolves around predicting COVID-19 vaccine he
 ![](images/CovidVac)
 :::
 :::
-
-
-
 
 ## 2: Data Warehouse/Engineering Project
 
@@ -52,13 +43,6 @@ The primary focus of this project revolves around predicting COVID-19 vaccine he
 In this project, I played a pivotal role as the lead architect, responsible for meticulously crafting, designing, and spearheading the development of a comprehensive data warehouse on Azure Synapse Analytics. By starting from scratch and leveraging the power of the Azure platform, we successfully built a sophisticated data infrastructure. This endeavor stands as a testament to my formidable data engineering prowess and showcases the depth of my expertise in this domain.....[Continue reading](){target="_blank"}
 :::
 :::
-
-
-
-
-
-
-
 
 ## 3: Using `R` to Extract, Organize, & Analyze Complex SDOH Data
 
@@ -76,8 +60,6 @@ This presentation takes you through the example and code snippets to show how R 
 :::
 :::
 
-
-
 ## 4: Business Intelligence Projects
 
 ::: columns
@@ -89,9 +71,24 @@ This presentation takes you through the example and code snippets to show how R 
 :::
 
 ::: {.column width="55%"}
-This page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service....[Continue reading](projectscontent/Project 4/index.qmd){target="_blank"}
+This page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service....[Continue reading](projectscontent/Project%204/index.qmd){target="_blank"}
 :::
 :::
 
 
+## 5: Effortless Access to Household Pulse Survey Datasets with `hpsr`: An `R` Data Package.
+
+::: columns
+::: {.column width="55%"}
+This project focuses on the development of an R data package- ['hpsr'](https://prasadbhoite.github.io/hpsr/), employing tools such as usethis, Rtools, and R Studio.\
+The methodology involves downloading CSV files from the Census website, optimizing storage efficiency through Parquet conversion and easy storage on Github, further transforming these files into .rda datasets. The culminating step involves sharing the comprehensive package on GitHub as an open-source contribution to the field of data science...... [Continue reading](https://prasadbhoite.github.io/hpsr/){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/hpsr_url)
+:::
+:::
 

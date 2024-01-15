@@ -264,5 +264,19 @@
     "title": "About",
     "section": "Certifications & Badges",
     "text": "Certifications & Badges\n\n Microsoft Certified: Azure Data Engineer Associate (DP-203)\n Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)\n                   Microsoft Certified: Azure AI Fundamentals (AI-900)\n                       Microsoft Certified: Azure Data Fundamentals (DP-900)\n                        Microsoft Certified: Azure Fundamentals (AZ-900)"
+  },
+  {
+    "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data-1",
+    "href": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data-1",
+    "title": "Prasad Bhoite",
+    "section": "5: Using R to Extract, Organize, & Analyze Complex SDOH Data",
+    "text": "5: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
+  },
+  {
+    "objectID": "Projects.html#effortless-access-to-household-pulse-survey-datasets-with-hpsr-an-r-data-package.",
+    "href": "Projects.html#effortless-access-to-household-pulse-survey-datasets-with-hpsr-an-r-data-package.",
+    "title": "Prasad Bhoite",
+    "section": "5: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.",
+    "text": "5: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.\n\n\nThis project focuses on the development of an R data package- ‘hpsr’, employing tools such as usethis, Rtools, and R Studio.\nThe methodology involves downloading CSV files from the Census website, optimizing storage efficiency through Parquet conversion and easy storage on Github, further transforming these files into .rda datasets. The culminating step involves sharing the comprehensive package on GitHub as an open-source contribution to the field of data science…… Continue reading"
   }
 ]
