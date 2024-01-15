@@ -25,11 +25,11 @@ The primary focus of this project revolves around predicting COVID-19 vaccine he
 :::
 
 ::: {.column width="40%"}
-![](images/CovidVac)
+[![](images/CovidVac)](projectscontent/Project%201/VaccineHesitancy_PBB.pdf){target="_blank"}
 :::
 :::
 
-## 2: Data Warehouse/Engineering Project
+## 2: Data Warehouse/Data Engineering Project
 
 ::: columns
 ::: {.column width="40%"}
@@ -56,7 +56,7 @@ This presentation takes you through the example and code snippets to show how R 
 :::
 
 ::: {.column width="40%"}
-![](images/DataAnalysisProcess)
+[![](images/DataAnalysisProcess)](https://rpubs.com/igonz009/953071){target="_blank"}
 :::
 :::
 
@@ -64,7 +64,7 @@ This presentation takes you through the example and code snippets to show how R 
 
 ::: columns
 ::: {.column width="40%"}
-![](images/ExecutiveSummary)
+[![](images/ExecutiveSummary)](projectscontent/Project%204/index.qmd){target="_blank"}
 :::
 
 ::: {.column width="5%"}
@@ -88,7 +88,8 @@ The methodology involves downloading CSV files from the Census website, optimizi
 :::
 
 ::: {.column width="40%"}
-![](images/hpsr_url)
+[![](images/hpsr_url)](https://prasadbhoite.github.io/hpsr/){target="_blank"}
+
 :::
 :::
 

@@ -123,7 +123,7 @@
     "href": "Projects.html#business-intelligence-projects",
     "title": "Prasad Bhoite",
     "section": "4: Business Intelligence Projects",
-    "text": "4: Business Intelligence Projects\n\n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading"
+    "text": "4: Business Intelligence Projects\n\n\n\n\n\n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading"
   },
   {
     "objectID": "Projects.html#machine-learning-projects",
@@ -278,5 +278,12 @@
     "title": "Prasad Bhoite",
     "section": "5: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.",
     "text": "5: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.\n\n\nThis project focuses on the development of an R data package- ‘hpsr’, employing tools such as usethis, Rtools, and R Studio.\nThe methodology involves downloading CSV files from the Census website, optimizing storage efficiency through Parquet conversion and easy storage on Github, further transforming these files into .rda datasets. The culminating step involves sharing the comprehensive package on GitHub as an open-source contribution to the field of data science…… Continue reading"
+  },
+  {
+    "objectID": "Projects.html#data-warehousedata-engineering-project",
+    "href": "Projects.html#data-warehousedata-engineering-project",
+    "title": "Prasad Bhoite",
+    "section": "2: Data Warehouse/Data Engineering Project",
+    "text": "2: Data Warehouse/Data Engineering Project\n\n\n\n\n\n\nIn this project, I played a pivotal role as the lead architect, responsible for meticulously crafting, designing, and spearheading the development of a comprehensive data warehouse on Azure Synapse Analytics. By starting from scratch and leveraging the power of the Azure platform, we successfully built a sophisticated data infrastructure. This endeavor stands as a testament to my formidable data engineering prowess and showcases the depth of my expertise in this domain…..Continue reading"
   }
 ]
