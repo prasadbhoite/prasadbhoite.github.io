@@ -25,7 +25,7 @@ The primary focus of this project revolves around predicting COVID-19 vaccine he
 :::
 
 ::: {.column width="40%"}
-[![](images/CovidVac)](projectscontent/Project%201/VaccineHesitancy_PBB.pdf){target="_blank"}
+[![](images/CovidVac)](projectscontent/Project%201/VaccineHesitancy_PBB.pdf)
 :::
 :::
 
@@ -56,7 +56,7 @@ This presentation takes you through the example and code snippets to show how R 
 :::
 
 ::: {.column width="40%"}
-[![](images/DataAnalysisProcess)](https://rpubs.com/igonz009/953071){target="_blank"}
+[![](images/DataAnalysisProcess)](https://rpubs.com/igonz009/953071)
 :::
 :::
 
@@ -64,7 +64,7 @@ This presentation takes you through the example and code snippets to show how R 
 
 ::: columns
 ::: {.column width="40%"}
-[![](images/ExecutiveSummary)](projectscontent/Project%204/index.qmd){target="_blank"}
+[![](images/ExecutiveSummary)](projectscontent/Project%204/index.qmd)
 :::
 
 ::: {.column width="5%"}
@@ -74,7 +74,6 @@ This presentation takes you through the example and code snippets to show how R 
 This page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service....[Continue reading](projectscontent/Project%204/index.qmd){target="_blank"}
 :::
 :::
-
 
 ## 5: Effortless Access to Household Pulse Survey Datasets with `hpsr`: An `R` Data Package.
 
@@ -88,8 +87,6 @@ The methodology involves downloading CSV files from the Census website, optimizi
 :::
 
 ::: {.column width="40%"}
-[![](images/hpsr_url)](https://prasadbhoite.github.io/hpsr/){target="_blank"}
-
+[![](images/hpsr_url)](https://prasadbhoite.github.io/hpsr/)
 :::
 :::
-
