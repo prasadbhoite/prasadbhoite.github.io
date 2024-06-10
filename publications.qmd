@@ -14,6 +14,11 @@
 Click the link to go to Publisher's website and download the paper.
 :::
 
+<h3>2024</h3>
+
+<p>Roshan M, O'Connell R, Nazarally M, Rodriguez de la Vega P, <strong> Bhoite P,</strong> Bisschops J, Varella M. 2024. Bridging Gaps: Analyzing Breast Imaging-Reporting and Data System (BI-RADS) 0 Rates and Associated Risk Factors in Disproportionally Affected Communities. <em>Cureus</em>, <a href="https://doi.org/10.7759/cureus.61495">https://doi.org/10.7759/cureus.61495</a></p>
+
+
 <h3>2023</h3>
 
 <p>Nusynowitz J, Jamneshan L, <strong> Bhoite P,</strong> Garba N, Samuels M, Stumbar S. 2023. Medical Students' Knowledge and Perceptions of Mpox in a High Incidence Region: Implications for Clinical Preparedness. <em>PRiMER</em>, <a href="https://doi.org/10.22454/primer.2023.120676">https://doi.org/10.22454/primer.2023.120676</a></p>
