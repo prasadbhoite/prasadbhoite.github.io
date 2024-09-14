@@ -8,7 +8,7 @@
 
 <body>
 
-<h2>Peer Reviewed Publications</h2>
+<h2>Peer-Reviewed Publications</h2>
 
 ::: callout-note
 Click the link to go to Publisher's website and download the paper.
@@ -16,6 +16,7 @@ Click the link to go to Publisher's website and download the paper.
 
 <h3>2024</h3>
 
+<p>Desai A, Rodriguez de la Vega P, Castro G, <strong> Bhoite P,</strong> Bisschops J, Varella M. 2024. Factors Influencing Timely Follow-up After Inconclusive Screening Mammograms at a 3D Mobile Mammography Center. <em>Cureus</em>, <a href="https://doi.org/10.7759/cureus.69213">https://doi.org/10.7759/cureus.69213</a></p>
 
 <p>Garza K, Latta S, Larancuent C, Fu K, Brown- Whalen A, Eskra J, Baker J, Helbig S, Maya J, Samarah H, Mondesir R, Desamour P, Busatto C, Brito S,  <strong> Bhoite P,</strong> Anderson F. 2024. Medical Students’ Efforts to Address COVID-19 Vaccine Hesitancy Through Motivational Interviewing. <em>Cureus</em>, <a href="https://doi.org/10.7759/cureus.65755">https://doi.org/10.7759/cureus.65755</a></p>
 
