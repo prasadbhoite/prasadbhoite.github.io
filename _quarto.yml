@@ -29,7 +29,7 @@ website:
   reader-mode: true
       
   page-footer: 
-    left: "Copyright 2022-2023, Prasad Bhoite" 
+    left: "Copyright 2022-2024, Prasad Bhoite" 
     right: 
       - icon: github
         href: https://github.com/prasadbhoite/
