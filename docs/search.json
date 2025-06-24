@@ -95,7 +95,7 @@
     "href": "ProjectsCustoms.html",
     "title": "Projects",
     "section": "",
-    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
+    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nScientific Research Assistant\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Language Model\n\n\nOpenAI\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
@@ -292,5 +292,61 @@
     "title": "About",
     "section": "Awards & Recognition",
     "text": "Awards & Recognition"
+  },
+  {
+    "objectID": "Projects.html#scientific-research-assistant",
+    "href": "Projects.html#scientific-research-assistant",
+    "title": "Prasad Bhoite",
+    "section": "6: Scientific Research Assistant",
+    "text": "6: Scientific Research Assistant\n\n\n\n\n\n\n\n\n\n\nThis interactive Generative AI application leverages OpenAI’s GPT-4 to assist with scientific paper workflows. It enables researchers and academics to:\n\n📄 Upload a PDF and extract structured text\n📚 Automatically summarize key findings, objectives, and limitations\n🧑‍⚖️ Generate peer reviews in customizable tone (neutral, critical, or supportive)\n🔗 Analyze citations for recency, diversity, and relevance\n\nThe app was built using Python, Streamlit, and OpenAI’s API, and is packaged with secure .env key handling. It serves as a productivity tool for literature evaluation and publication support.\nContinue reading, explore the app and Github Repo. Thank you!"
+  },
+  {
+    "objectID": "projectscontent/Project 5/index.html",
+    "href": "projectscontent/Project 5/index.html",
+    "title": "Scientific Research Assistant",
+    "section": "",
+    "text": "This page displays the gallery of end-to-end generative AI application. Please use the following link to access the app. You will need your own OpenAI API key in order to use this app. Scientific Research Assistant Application Link"
+  },
+  {
+    "objectID": "projectscontent/Project 5/index.html#login-page",
+    "href": "projectscontent/Project 5/index.html#login-page",
+    "title": "Scientific Research Assistant",
+    "section": "🔐 Login Page:",
+    "text": "🔐 Login Page:"
+  },
+  {
+    "objectID": "projectscontent/Project 5/index.html#bi-project-2",
+    "href": "projectscontent/Project 5/index.html#bi-project-2",
+    "title": "Scientific Research Assistant",
+    "section": "BI Project 2:",
+    "text": "BI Project 2:"
+  },
+  {
+    "objectID": "projectscontent/Project 5/index.html#bi-project-3",
+    "href": "projectscontent/Project 5/index.html#bi-project-3",
+    "title": "Scientific Research Assistant",
+    "section": "BI Project 3:",
+    "text": "BI Project 3:"
+  },
+  {
+    "objectID": "projectscontent/Project 5/index.html#pdf-upload-and-text-extraction",
+    "href": "projectscontent/Project 5/index.html#pdf-upload-and-text-extraction",
+    "title": "Scientific Research Assistant",
+    "section": "📄 PDF Upload and Text Extraction",
+    "text": "📄 PDF Upload and Text Extraction"
+  },
+  {
+    "objectID": "projectscontent/Project 5/index.html#summarized-output",
+    "href": "projectscontent/Project 5/index.html#summarized-output",
+    "title": "Scientific Research Assistant",
+    "section": "📚 Summarized Output",
+    "text": "📚 Summarized Output"
+  },
+  {
+    "objectID": "projectscontent/Project 5/index.html#peer-review-generator",
+    "href": "projectscontent/Project 5/index.html#peer-review-generator",
+    "title": "Scientific Research Assistant",
+    "section": "📚 Peer Review Generator",
+    "text": "📚 Peer Review Generator\n   \n\n📚 Citation Analysis"
   }
 ]

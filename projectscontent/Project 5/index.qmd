@@ -1,0 +1,31 @@
+---
+title: "Scientific Research Assistant"
+author: "Prasad Bhoite"
+#date: "2022-04-02"
+categories: [Generative AI, Large Language Model, OpenAI, Streamlit]
+image: "SDOH.jpg"
+---
+
+This page displays the gallery of end-to-end generative AI application.
+Please use the following link to access the app. You will need your own OpenAI API key in order to use this app.
+[Scientific Research Assistant Application Link](https://scientificresearchassistant-aqwryyo25dtfql8wn9t2ug.streamlit.app/){target="_blank"}
+
+## 🔐 Login Page:
+
+![](1.LandingPage.png) <br> <br> <br>
+
+## 📄 PDF Upload and Text Extraction
+![](2.PDFUpload_Summarization.png)
+<br> <br> <br>
+
+## 📚 Summarized Output
+![](3.ArticleSummarizer.png)
+<br> <br> <br>
+
+## 📚 Peer Review Generator
+![](5.PeerReviewGenerator_Summary.png)
+<br> <br> <br>
+
+### 📚 Citation Analysis
+![](6.CitationAnalysis.png)
+<br> <br> <br>
