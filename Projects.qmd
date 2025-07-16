@@ -99,7 +99,7 @@ The methodology involves downloading CSV files from the Census website, optimizi
 
 :::::: columns
 ::: {.column width="40%"}
-[![](images/ScientificResearchAssistant_AI)](projectscontent/Project%205/index.qmd)
+[![](images/ScientificResearchAssistant_AI)](projectscontent/Project%206/index.qmd)
 :::
 
 ::: {.column width="5%"}
@@ -115,7 +115,36 @@ This interactive [Generative AI application](https://scientificresearchassistant
 
 The app was built using Python, Streamlit, and OpenAI’s API, and is packaged with secure `.env` key handling. It serves as a productivity tool for literature evaluation and publication support.
 
-[Continue reading](projectscontent/Project%205/index.qmd){target="_blank"}, [explore the app](https://scientificresearchassistant-aqwryyo25dtfql8wn9t2ug.streamlit.app/){target="_blank"} and [Github Repo](https://github.com/prasadbhoite/Scientific_Research_Assistant){target="_blank"}. Thank you!
+[Continue reading](projectscontent/Project%206/index.qmd){target="_blank"}, [explore the app](https://scientificresearchassistant-aqwryyo25dtfql8wn9t2ug.streamlit.app/){target="_blank"} and [Github Repo](https://github.com/prasadbhoite/Scientific_Research_Assistant){target="_blank"}. Thank you!
+
+:::
+::::::
+
+
+
+## 7: Multilingual Virtual Research Assistant (MVRA)
+
+:::::: columns
+::: {.column width="55%"}
+[![](images/MVRA)](projectscontent/Project%207/index.qmd)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+The MVRA application is a powerful multimodal AI assistant built with Meta’s LLaMA 4 and integrates advanced vision-language capabilities for research and education. Key features include:
+
+- 🧠 Ask general questions and receive contextual answers
+- 📰 Summarize long academic texts instantly
+- 🖼️ Analyze and compare up to 9 images via URLs or file uploads
+- 🌐 Translate messages between multiple languages interactively
+- 🗂️ Perform image grounding with bounding boxes on uploaded files
+
+
+Built using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrates how LLMs can bridge language, vision, and text for multilingual, multimodal workflows.
+
+[Continue reading](projectscontent/Project%207/index.qmd){target="_blank"}, [explore the app](https://multilingualvirtualresearchasistant-6vud8r4wjcscfcgtijdl4n.streamlit.app/){target="_blank"} and [Github Repo](https://github.com/prasadbhoite/Multilingual_Virtual_Research_Asistant){target="_blank"}. Thank you!
 
 :::
 ::::::

@@ -1,0 +1,56 @@
+---
+title: "Multilingual Virtual Research Assistant (MVRA)"
+author: "Prasad Bhoite"
+#date: "2022-04-02"
+categories: [Generative AI, Large Multimodal Model, Image Analysis, Image Grounding, Llama4, Streamlit]
+image: "MVRA.png"
+---
+
+::: {.callout-tip icon="🌍"}
+**MVRA** is a Streamlit-based GenAI assistant that empowers researchers with natural language understanding, multilingual translation, image analysis, and synthetic data generation — powered entirely by **Meta's LLaMA 4**.
+:::
+
+## 🚀 Features
+
+-   📝 **Ask a Question**: Natural language QA using LLaMA-4 Instruct models such as Llama 4 Scout and Llama 4 Maverick.
+-   📰 **Summarize Text**: Generate concise, research-oriented summaries.
+-   🖼️ **Image Analysis (URL & Upload)**: Ask questions about images or compare multiple visuals.
+-   🌐 **Multilingual Translator**: Bi-directional translation between English, French, Spanish, Hindi, and Chinese.
+-   🧩 **Image Grounding**: Detect and visualize tools/items in images using bounding boxes.
+
+------------------------------------------------------------------------
+
+## 🧱 Tech Stack
+
+-   **Frontend**: [Streamlit](https://streamlit.io/)
+-   **LLMs**: Meta LLaMA 4 (Scout/Instruct via `llama-api`)
+-   **Multilingual API**: `llama4` w/ compatibility base URL
+-   **Vision**: Base64 encoding + VQA using multimodal LLaMA
+-   **Image Grounding**: Regex + `pydantic` + `matplotlib` overlays
+-   **Deployment**: [Streamlit Cloud](https://streamlit.io/cloud)
+
+------------------------------------------------------------------------
+
+## 🔗 GitHub Repository
+
+👉 **Explore Source Code:** [https://github.com/prasadbhoite/Multilingual_Virtual_Research_Asistant](https://github.com/prasadbhoite/Multilingual_Virtual_Research_Asistant)
+
+------------------------------------------------------------------------
+
+## 🧪 Screenshots
+
+![](images/MVRA)
+
+> ⚠️ If you're running locally, make sure to configure your `.env` file and `requirements.txt`.
+
+
+
+
+
+------------------------------------------------------------------------
+
+## 🌍 Live Demo
+
+Try the app live:
+
+\`\`\`{=html} <iframe src="https://multilingualvirtualresearchasistant-6vud8r4wjcscfcgtijdl4n.streamlit.app/" width="100%" height="650px" style="border: 1px solid #ccc; border-radius: 8px;"></iframe> 📚

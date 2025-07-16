@@ -95,7 +95,7 @@
     "href": "ProjectsCustoms.html",
     "title": "Projects",
     "section": "",
-    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nScientific Research Assistant\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Language Model\n\n\nOpenAI\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
+    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nMultilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Multimodal Model\n\n\nImage Analysis\n\n\nImage Grounding\n\n\nLlama4\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nScientific Research Assistant\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Language Model\n\n\nOpenAI\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
@@ -348,5 +348,89 @@
     "title": "Scientific Research Assistant",
     "section": "📚 Peer Review Generator",
     "text": "📚 Peer Review Generator\n   \n\n📚 Citation Analysis"
+  },
+  {
+    "objectID": "Projects.html#multilingual-virtual-research-assistant-mvra",
+    "href": "Projects.html#multilingual-virtual-research-assistant-mvra",
+    "title": "Prasad Bhoite",
+    "section": "7: Multilingual Virtual Research Assistant (MVRA)",
+    "text": "7: Multilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\n\n\n\nThe MVRA application is a powerful multimodal AI assistant built with Meta’s LLaMA 4 and integrates advanced vision-language capabilities for research and education. Key features include:\n\n🧠 Ask general questions and receive contextual answers\n📰 Summarize long academic texts instantly\n🖼️ Analyze and compare up to 9 images via URLs or file uploads\n🌐 Translate messages between multiple languages interactively\n🗂️ Perform image grounding with bounding boxes on uploaded files\n\nBuilt using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrates how LLMs can bridge language, vision, and text for multilingual, multimodal workflows.\nContinue reading, explore the app and Github Repo. Thank you!"
+  },
+  {
+    "objectID": "projectscontent/Project 6/index.html",
+    "href": "projectscontent/Project 6/index.html",
+    "title": "Scientific Research Assistant",
+    "section": "",
+    "text": "This page displays the gallery of end-to-end generative AI application. Please use the following link to access the app. You will need your own OpenAI API key in order to use this app. Scientific Research Assistant Application Link"
+  },
+  {
+    "objectID": "projectscontent/Project 6/index.html#login-page",
+    "href": "projectscontent/Project 6/index.html#login-page",
+    "title": "Scientific Research Assistant",
+    "section": "🔐 Login Page:",
+    "text": "🔐 Login Page:"
+  },
+  {
+    "objectID": "projectscontent/Project 6/index.html#pdf-upload-and-text-extraction",
+    "href": "projectscontent/Project 6/index.html#pdf-upload-and-text-extraction",
+    "title": "Scientific Research Assistant",
+    "section": "📄 PDF Upload and Text Extraction",
+    "text": "📄 PDF Upload and Text Extraction"
+  },
+  {
+    "objectID": "projectscontent/Project 6/index.html#summarized-output",
+    "href": "projectscontent/Project 6/index.html#summarized-output",
+    "title": "Scientific Research Assistant",
+    "section": "📚 Summarized Output",
+    "text": "📚 Summarized Output"
+  },
+  {
+    "objectID": "projectscontent/Project 6/index.html#peer-review-generator",
+    "href": "projectscontent/Project 6/index.html#peer-review-generator",
+    "title": "Scientific Research Assistant",
+    "section": "📚 Peer Review Generator",
+    "text": "📚 Peer Review Generator\n   \n\n📚 Citation Analysis"
+  },
+  {
+    "objectID": "projectscontent/Project 7/index.html",
+    "href": "projectscontent/Project 7/index.html",
+    "title": "Multilingual Virtual Research Assistant (MVRA)",
+    "section": "",
+    "text": "Tip\n\n\n\nMVRA is a Streamlit-based GenAI assistant that empowers researchers with natural language understanding, multilingual translation, image analysis, and synthetic data generation — powered entirely by Meta’s LLaMA 4."
+  },
+  {
+    "objectID": "projectscontent/Project 7/index.html#features",
+    "href": "projectscontent/Project 7/index.html#features",
+    "title": "Multilingual Virtual Research Assistant (MVRA)",
+    "section": "🚀 Features",
+    "text": "🚀 Features\n\n📝 Ask a Question: Natural language QA using LLaMA-4 Instruct models such as Llama 4 Scout and Llama 4 Maverick.\n📰 Summarize Text: Generate concise, research-oriented summaries.\n🖼️ Image Analysis (URL & Upload): Ask questions about images or compare multiple visuals.\n🌐 Multilingual Translator: Bi-directional translation between English, French, Spanish, Hindi, and Chinese.\n🧩 Image Grounding: Detect and visualize tools/items in images using bounding boxes."
+  },
+  {
+    "objectID": "projectscontent/Project 7/index.html#tech-stack",
+    "href": "projectscontent/Project 7/index.html#tech-stack",
+    "title": "Multilingual Virtual Research Assistant (MVRA)",
+    "section": "🧱 Tech Stack",
+    "text": "🧱 Tech Stack\n\nFrontend: Streamlit\nLLMs: Meta LLaMA 4 (Scout/Instruct via llama-api)\nMultilingual API: llama4 w/ compatibility base URL\nVision: Base64 encoding + VQA using multimodal LLaMA\nImage Grounding: Regex + pydantic + matplotlib overlays\nDeployment: Streamlit Cloud"
+  },
+  {
+    "objectID": "projectscontent/Project 7/index.html#screenshots",
+    "href": "projectscontent/Project 7/index.html#screenshots",
+    "title": "Multilingual Virtual Research Assistant (MVRA)",
+    "section": "🧪 Screenshots",
+    "text": "🧪 Screenshots\n\n\n⚠️ If you’re running locally, make sure to configure your .env file and requirements.txt."
+  },
+  {
+    "objectID": "projectscontent/Project 7/index.html#github-repository",
+    "href": "projectscontent/Project 7/index.html#github-repository",
+    "title": "Multilingual Virtual Research Assistant (MVRA)",
+    "section": "🔗 GitHub Repository",
+    "text": "🔗 GitHub Repository\n👉 Explore Source Code: https://github.com/prasadbhoite/Multilingual_Virtual_Research_Asistant"
+  },
+  {
+    "objectID": "projectscontent/Project 7/index.html#live-demo",
+    "href": "projectscontent/Project 7/index.html#live-demo",
+    "title": "Multilingual Virtual Research Assistant (MVRA)",
+    "section": "🌍 Live Demo",
+    "text": "🌍 Live Demo\nTry the app live:\n```{=html}  📚"
   }
 ]
