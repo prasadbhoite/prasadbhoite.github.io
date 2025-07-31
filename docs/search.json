@@ -95,7 +95,7 @@
     "href": "ProjectsCustoms.html",
     "title": "Projects",
     "section": "",
-    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nMultilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Multimodal Model\n\n\nImage Analysis\n\n\nImage Grounding\n\n\nLlama4\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nScientific Research Assistant\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Language Model\n\n\nOpenAI\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
+    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nMulti-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\nAgentic AI\n\n\nLarge Multimodal Model\n\n\ncrewAI\n\n\nOpenAI\n\n\nSerper\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nMultilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Multimodal Model\n\n\nImage Analysis\n\n\nImage Grounding\n\n\nLlama4\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nScientific Research Assistant\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Language Model\n\n\nOpenAI\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
@@ -432,5 +432,61 @@
     "title": "Multilingual Virtual Research Assistant (MVRA)",
     "section": "🌍 Live Demo",
     "text": "🌍 Live Demo\nTry the app live:\n```{=html}  📚"
+  },
+  {
+    "objectID": "Projects.html#section",
+    "href": "Projects.html#section",
+    "title": "Prasad Bhoite",
+    "section": "8:",
+    "text": "8:\n\n\n\n\n\n\n\n\n\n\nThis interactive Generative AI application leverages OpenAI’s GPT-4 to assist with scientific paper workflows. It enables researchers and academics to:\n\n📄 Upload a PDF and extract structured text\n📚 Automatically summarize key findings, objectives, and limitations\n🧑‍⚖️ Generate peer reviews in customizable tone (neutral, critical, or supportive)\n🔗 Analyze citations for recency, diversity, and relevance\n\nThe app was built using Python, Streamlit, and OpenAI’s API, and is packaged with secure .env key handling. It serves as a productivity tool for literature evaluation and publication support.\nContinue reading, explore the app and Github Repo. Thank you!"
+  },
+  {
+    "objectID": "projectscontent/Project 8/index.html",
+    "href": "projectscontent/Project 8/index.html",
+    "title": "Multi-Agent Job Application Assistant Crew",
+    "section": "",
+    "text": "Tip\n\n\n\nMulti-Agent Job Application Assistant Crew is a modular GenAI application that helps users streamline the job application process using task-specialized CrewAI agents, dynamic forms, and advanced retrieval techniques."
+  },
+  {
+    "objectID": "projectscontent/Project 8/index.html#features",
+    "href": "projectscontent/Project 8/index.html#features",
+    "title": "Multi-Agent Job Application Assistant Crew",
+    "section": "🚀 Features",
+    "text": "🚀 Features\n\n🤖 Multi-Agent Architecture: Each agent performs a dedicated task (e.g., resume enhancement, cover letter generation, job matching).\n🧾 Job Form Parsing: Upload job descriptions or links and auto-parse key requirements.\n📄 Dynamic Resume Customization: Tailor your resume and experience section based on the job description.\n✉️ Cover Letter Generation: Generate personalized, professional cover letters using AI agents.\n🧠 Memory & Reasoning: Long-term memory using vector store for improved reasoning across tasks."
+  },
+  {
+    "objectID": "projectscontent/Project 8/index.html#tech-stack",
+    "href": "projectscontent/Project 8/index.html#tech-stack",
+    "title": "Multi-Agent Job Application Assistant Crew",
+    "section": "🧱 Tech Stack",
+    "text": "🧱 Tech Stack\n\nFramework: Streamlit + CrewAI\nLLMs: OpenAI GPT-4o\nRetrieval: ChromaDB\nAgents: Role-based CrewAI agents (e.g., Researcher, ResumeWriter, Reviewer)\nDeployment: Streamlit Cloud"
+  },
+  {
+    "objectID": "projectscontent/Project 8/index.html#github-repository",
+    "href": "projectscontent/Project 8/index.html#github-repository",
+    "title": "Multi-Agent Job Application Assistant Crew",
+    "section": "🔗 GitHub Repository",
+    "text": "🔗 GitHub Repository\n👉 Explore Source Code: https://github.com/prasadbhoite/Multi_Agent_Job_Application_Crew"
+  },
+  {
+    "objectID": "projectscontent/Project 8/index.html#screenshots",
+    "href": "projectscontent/Project 8/index.html#screenshots",
+    "title": "Multi-Agent Job Application Assistant Crew",
+    "section": "🧪 Screenshots",
+    "text": "🧪 Screenshots\n\n\n⚠️ If you’re running locally, be sure to include your .env, secrets.toml, and requirements.txt."
+  },
+  {
+    "objectID": "projectscontent/Project 8/index.html#live-demo",
+    "href": "projectscontent/Project 8/index.html#live-demo",
+    "title": "Multi-Agent Job Application Assistant Crew",
+    "section": "🧬 Live Demo",
+    "text": "🧬 Live Demo\nTry the app live:"
+  },
+  {
+    "objectID": "Projects.html#multi-agent-job-application-assistant-crew",
+    "href": "Projects.html#multi-agent-job-application-assistant-crew",
+    "title": "Prasad Bhoite",
+    "section": "8: Multi-Agent Job Application Assistant Crew",
+    "text": "8: Multi-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\n\n\n\nThis Multi-Agent Job Application Assistnat Crew is a modular, agentic job-seeking assistant built using the CrewAI framework. It uses multiple AI agents to collaboratively generate tailored resumes and interview materials based on a user-uploaded resume (Markdown or PDF).\n💼 Upload your resume (Markdown or PDF)\n🧠 Agents analyze your experience and target job\n✍️ Generate a customized resume\n🎤 Get personalized interview prep questions\n📄 Download all results with one click\nBuilt using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcases how agentic workflows can automate and enhance the job application process.\nContinue reading, explore the app and Github Repo. Thank you!"
   }
 ]

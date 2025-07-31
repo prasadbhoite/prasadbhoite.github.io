@@ -1,0 +1,51 @@
+---
+title: "Multi-Agent Job Application Assistant Crew"
+author: "Prasad Bhoite"
+#date: "2022-04-02"
+categories: [Agentic AI, Large Multimodal Model, crewAI, OpenAI, Serper, Streamlit]
+image: "MultiAgentJobApplicationCrew.png"
+---
+::: {.callout-tip icon="🧑‍💼"}
+**Multi-Agent Job Application Assistant Crew** is a modular GenAI application that helps users streamline the job application process using task-specialized CrewAI agents, dynamic forms, and advanced retrieval techniques.
+:::
+
+## 🚀 Features
+
+- 🤖 **Multi-Agent Architecture**: Each agent performs a dedicated task (e.g., resume enhancement, cover letter generation, job matching).
+- 🧾 **Job Form Parsing**: Upload job descriptions or links and auto-parse key requirements.
+- 📄 **Dynamic Resume Customization**: Tailor your resume and experience section based on the job description.
+- ✉️ **Cover Letter Generation**: Generate personalized, professional cover letters using AI agents.
+- 🧠 **Memory & Reasoning**: Long-term memory using vector store for improved reasoning across tasks.
+
+---
+
+## 🧱 Tech Stack
+
+- **Framework**: [Streamlit](https://streamlit.io/) + [CrewAI](https://docs.crewai.com/)
+- **LLMs**: OpenAI GPT-4o
+- **Retrieval**: `ChromaDB`
+- **Agents**: Role-based CrewAI agents (e.g., Researcher, ResumeWriter, Reviewer)
+- **Deployment**: [Streamlit Cloud](https://streamlit.io/cloud)
+
+---
+
+## 🔗 GitHub Repository
+
+👉 **Explore Source Code:** <https://github.com/prasadbhoite/Multi_Agent_Job_Application_Crew>
+
+---
+
+## 🧪 Screenshots
+
+![](images/MultiAgentJobAssistant)
+
+> ⚠️ If you're running locally, be sure to include your `.env`, `secrets.toml`, and `requirements.txt`.
+
+---
+
+## 🧬 Live Demo
+
+Try the app live:
+
+```{=html}
+<iframe src="https://multiagentjobapplicationcrew.streamlit.app/" width="100%" height="650px" style="border: 1px solid #ccc; border-radius: 8px;"></iframe>

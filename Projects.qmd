@@ -148,3 +148,33 @@ Built using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrat
 
 :::
 ::::::
+
+
+
+
+## 8: Multi-Agent Job Application Assistant Crew
+
+:::::: columns
+::: {.column width="40%"}
+[![](images/MultiAgentJobApplicationCrew)](projectscontent/Project%208/index.qmd)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+This [**Multi-Agent Job Application Assistnat  Crew**](https://multiagentjobapplicationcrew-7ndv8mztqy4v7jueoldbdj.streamlit.app/) is a modular, agentic job-seeking assistant built using the CrewAI framework. It uses multiple AI agents to collaboratively generate tailored resumes and interview materials based on a user-uploaded resume (Markdown or PDF). 
+
+💼 Upload your resume (Markdown or PDF)  
+🧠 Agents analyze your experience and target job  
+✍️ Generate a customized resume  
+🎤 Get personalized interview prep questions  
+📄 Download all results with one click  
+
+Built using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcases how agentic workflows can automate and enhance the job application process.
+
+
+[Continue reading](projectscontent/Project%208/index.qmd){target="_blank"}, [explore the app](https://multiagentjobapplicationcrew-7ndv8mztqy4v7jueoldbdj.streamlit.app/){target="_blank"} and [Github Repo](https://github.com/prasadbhoite/Multi_Agent_Job_Application_Crew){target="_blank"}. Thank you!
+
+:::
+::::::
