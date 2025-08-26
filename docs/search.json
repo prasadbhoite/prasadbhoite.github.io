@@ -487,6 +487,13 @@
     "href": "Projects.html#multi-agent-job-application-assistant-crew",
     "title": "Prasad Bhoite",
     "section": "8: Multi-Agent Job Application Assistant Crew",
-    "text": "8: Multi-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\n\n\n\nThis Multi-Agent Job Application Assistnat Crew is a modular, agentic job-seeking assistant built using the CrewAI framework. It uses multiple AI agents to collaboratively generate tailored resumes and interview materials based on a user-uploaded resume (Markdown or PDF).\n💼 Upload your resume (Markdown or PDF)\n🧠 Agents analyze your experience and target job\n✍️ Generate a customized resume\n🎤 Get personalized interview prep questions\n📄 Download all results with one click\nBuilt using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcases how agentic workflows can automate and enhance the job application process.\nContinue reading, explore the app and Github Repo. Thank you!"
+    "text": "8: Multi-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\n\n\n\nThis Multi-Agent Job Application Assistant Crew is a modular, agentic job-seeking assistant built using the CrewAI framework. It uses multiple AI agents to collaboratively generate tailored resumes and interview materials based on a user-uploaded resume (Markdown or PDF).\n💼 Upload your resume (Markdown or PDF)\n🧠 Agents analyze your experience and target job\n✍️ Generate a customized resume\n🎤 Get personalized interview prep questions\n📄 Download all results with one click\nBuilt using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcases how agentic workflows can automate and enhance the job application process.\nContinue reading, explore the app and Github Repo. Thank you!"
+  },
+  {
+    "objectID": "projectscontent/Project 6/index.html#demo-click-the-play-button-to-view-the-demo-video.",
+    "href": "projectscontent/Project 6/index.html#demo-click-the-play-button-to-view-the-demo-video.",
+    "title": "Scientific Research Assistant",
+    "section": "🧬 Demo (Click the play button to view the demo video.)",
+    "text": "🧬 Demo (Click the play button to view the demo video.)"
   }
 ]

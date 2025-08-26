@@ -8,6 +8,18 @@ image: "1.LandingPage.jpg"
 
 This page displays the gallery of end-to-end generative AI application. Please use the following link to access the app. You will need your own OpenAI API key in order to use this app. [Scientific Research Assistant Application Link](https://scientificresearchassistant-aqwryyo25dtfql8wn9t2ug.streamlit.app/){target="_blank"}
 
+## 🧬 Demo (Click the play button to view the demo video.)
+ 
+<div style="display: flex; justify-content: center; margin: 2rem 0;">
+<iframe width="800" height="450" 
+          src="https://www.youtube.com/embed/lXjuJrngNE4" 
+          title="Scientific Research Assistant Demo" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+</iframe>
+</div>
+
 ## 🔐 Login Page:
 
 ![](1.LandingPage.png) <br> <br> <br>
