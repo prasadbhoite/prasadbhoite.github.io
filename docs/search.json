@@ -101,8 +101,8 @@
     "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
     "href": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
     "title": "Prasad Bhoite",
-    "section": "3: Using R to Extract, Organize, & Analyze Complex SDOH Data",
-    "text": "3: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
+    "section": "7: Using R to Extract, Organize, & Analyze Complex SDOH Data",
+    "text": "7: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
   },
   {
     "objectID": "Projects.html#project-1-using-r-to-extract-organize-analyze-complex-sdoh-data",
@@ -122,8 +122,8 @@
     "objectID": "Projects.html#business-intelligence-projects",
     "href": "Projects.html#business-intelligence-projects",
     "title": "Prasad Bhoite",
-    "section": "4: Business Intelligence Projects",
-    "text": "4: Business Intelligence Projects\n\n\n\n\n\n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading"
+    "section": "5: Business Intelligence Projects",
+    "text": "5: Business Intelligence Projects\n\n\n\n\n\n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading"
   },
   {
     "objectID": "Projects.html#machine-learning-projects",
@@ -136,8 +136,8 @@
     "objectID": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms",
     "href": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms",
     "title": "Prasad Bhoite",
-    "section": "1: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms",
-    "text": "1: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms\n\n\nThe primary focus of this project revolves around predicting COVID-19 vaccine hesitancy among adults in the United States. To achieve this objective, I employ classification machine learning algorithms and analyze data sourced from the Household Pulse Survey data. Through rigorous examination and interpretation of the data, I aim to gain valuable insights into the factors influencing vaccine hesitancy, ultimately contributing to a better understanding of vaccination patterns and behaviors among the US population…..Continue reading"
+    "section": "4: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms",
+    "text": "4: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms\n\n\nThe primary focus of this project revolves around predicting COVID-19 vaccine hesitancy among adults in the United States. To achieve this objective, I employ classification machine learning algorithms and analyze data sourced from the Household Pulse Survey data. Through rigorous examination and interpretation of the data, I aim to gain valuable insights into the factors influencing vaccine hesitancy, ultimately contributing to a better understanding of vaccination patterns and behaviors among the US population…..Continue reading"
   },
   {
     "objectID": "Projects.html#data-warehousing",
@@ -276,15 +276,15 @@
     "objectID": "Projects.html#effortless-access-to-household-pulse-survey-datasets-with-hpsr-an-r-data-package.",
     "href": "Projects.html#effortless-access-to-household-pulse-survey-datasets-with-hpsr-an-r-data-package.",
     "title": "Prasad Bhoite",
-    "section": "5: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.",
-    "text": "5: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.\n\n\nThis project focuses on the development of an R data package- ‘hpsr’, employing tools such as usethis, Rtools, and R Studio.\nThe methodology involves downloading CSV files from the Census website, optimizing storage efficiency through Parquet conversion and easy storage on Github, further transforming these files into .rda datasets. The culminating step involves sharing the comprehensive package on GitHub as an open-source contribution to the field of data science…… Continue reading"
+    "section": "8: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.",
+    "text": "8: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.\n\n\nThis project focuses on the development of an R data package- ‘hpsr’, employing tools such as usethis, Rtools, and R Studio.\nThe methodology involves downloading CSV files from the Census website, optimizing storage efficiency through Parquet conversion and easy storage on Github, further transforming these files into .rda datasets. The culminating step involves sharing the comprehensive package on GitHub as an open-source contribution to the field of data science…… Continue reading"
   },
   {
     "objectID": "Projects.html#data-warehousedata-engineering-project",
     "href": "Projects.html#data-warehousedata-engineering-project",
     "title": "Prasad Bhoite",
-    "section": "2: Data Warehouse/Data Engineering Project",
-    "text": "2: Data Warehouse/Data Engineering Project\n\n\n\n\n\n\nIn this project, I played a pivotal role as the lead architect, responsible for meticulously crafting, designing, and spearheading the development of a comprehensive data warehouse on Azure Synapse Analytics. By starting from scratch and leveraging the power of the Azure platform, we successfully built a sophisticated data infrastructure. This endeavor stands as a testament to my formidable data engineering prowess and showcases the depth of my expertise in this domain…..Continue reading"
+    "section": "6: Data Warehouse/Data Engineering Project",
+    "text": "6: Data Warehouse/Data Engineering Project\n\n\n\n\n\n\nIn this project, I played a pivotal role as the lead architect, responsible for meticulously crafting, designing, and spearheading the development of a comprehensive data warehouse on Azure Synapse Analytics. By starting from scratch and leveraging the power of the Azure platform, we successfully built a sophisticated data infrastructure. This endeavor stands as a testament to my formidable data engineering prowess and showcases the depth of my expertise in this domain…..Continue reading"
   },
   {
     "objectID": "about.html#awards-recognition",
@@ -297,8 +297,8 @@
     "objectID": "Projects.html#scientific-research-assistant",
     "href": "Projects.html#scientific-research-assistant",
     "title": "Prasad Bhoite",
-    "section": "6: Scientific Research Assistant",
-    "text": "6: Scientific Research Assistant\n\n\n\n\n\n\n\n\n\n\nThis interactive Generative AI application leverages OpenAI’s GPT-4 to assist with scientific paper workflows. It enables researchers and academics to:\n\n📄 Upload a PDF and extract structured text\n📚 Automatically summarize key findings, objectives, and limitations\n🧑‍⚖️ Generate peer reviews in customizable tone (neutral, critical, or supportive)\n🔗 Analyze citations for recency, diversity, and relevance\n\nThe app was built using Python, Streamlit, and OpenAI’s API, and is packaged with secure .env key handling. It serves as a productivity tool for literature evaluation and publication support.\nContinue reading, explore the app and Github Repo. Thank you!"
+    "section": "3: Scientific Research Assistant",
+    "text": "3: Scientific Research Assistant\n\n\n\n\n\n\n\n\n\n\nThis interactive Generative AI application leverages OpenAI’s GPT-4 to assist with scientific paper workflows. It enables researchers and academics to:\n\n📄 Upload a PDF and extract structured text\n📚 Automatically summarize key findings, objectives, and limitations\n🧑‍⚖️ Generate peer reviews in customizable tone (neutral, critical, or supportive)\n🔗 Analyze citations for recency, diversity, and relevance\n\nThe app was built using Python, Streamlit, and OpenAI’s API, and is packaged with secure .env key handling. It serves as a productivity tool for literature evaluation and publication support.\nContinue reading, explore the app and Github Repo. Thank you!"
   },
   {
     "objectID": "projectscontent/Project 5/index.html",
@@ -353,8 +353,8 @@
     "objectID": "Projects.html#multilingual-virtual-research-assistant-mvra",
     "href": "Projects.html#multilingual-virtual-research-assistant-mvra",
     "title": "Prasad Bhoite",
-    "section": "7: Multilingual Virtual Research Assistant (MVRA)",
-    "text": "7: Multilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\n\n\n\nThe MVRA application is a powerful multimodal AI assistant built with Meta’s LLaMA 4 and integrates advanced vision-language capabilities for research and education. Key features include:\n\n🧠 Ask general questions and receive contextual answers\n📰 Summarize long academic texts instantly\n🖼️ Analyze and compare up to 9 images via URLs or file uploads\n🌐 Translate messages between multiple languages interactively\n🗂️ Perform image grounding with bounding boxes on uploaded files\n\nBuilt using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrates how LLMs can bridge language, vision, and text for multilingual, multimodal workflows.\nContinue reading, explore the app and Github Repo. Thank you!"
+    "section": "1: Multilingual Virtual Research Assistant (MVRA)",
+    "text": "1: Multilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\n\n\n\nThe MVRA application is a powerful multimodal AI assistant built with Meta’s LLaMA 4 and integrates advanced vision-language capabilities for research and education. Key features include:\n\n🧠 Ask general questions and receive contextual answers\n📰 Summarize long academic texts instantly\n🖼️ Analyze and compare up to 9 images via URLs or file uploads\n🌐 Translate messages between multiple languages interactively\n🗂️ Perform image grounding with bounding boxes on uploaded files\n\nBuilt using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrates how LLMs can bridge language, vision, and text for multilingual, multimodal workflows.\nContinue reading, explore the app and Github Repo. Thank you!"
   },
   {
     "objectID": "projectscontent/Project 6/index.html",
@@ -486,8 +486,8 @@
     "objectID": "Projects.html#multi-agent-job-application-assistant-crew",
     "href": "Projects.html#multi-agent-job-application-assistant-crew",
     "title": "Prasad Bhoite",
-    "section": "8: Multi-Agent Job Application Assistant Crew",
-    "text": "8: Multi-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\n\n\n\nThis Multi-Agent Job Application Assistant Crew is a modular, agentic job-seeking assistant built using the CrewAI framework. It uses multiple AI agents to collaboratively generate tailored resumes and interview materials based on a user-uploaded resume (Markdown or PDF).\n💼 Upload your resume (Markdown or PDF)\n🧠 Agents analyze your experience and target job\n✍️ Generate a customized resume\n🎤 Get personalized interview prep questions\n📄 Download all results with one click\nBuilt using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcases how agentic workflows can automate and enhance the job application process.\nContinue reading, explore the app and Github Repo. Thank you!"
+    "section": "2: Multi-Agent Job Application Assistant Crew",
+    "text": "2: Multi-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\n\n\n\nThis Multi-Agent Job Application Assistant Crew is a modular, agentic job-seeking assistant built using the CrewAI framework. It uses multiple AI agents to collaboratively generate tailored resumes and interview materials based on a user-uploaded resume (Markdown or PDF).\n💼 Upload your resume (Markdown or PDF)\n🧠 Agents analyze your experience and target job\n✍️ Generate a customized resume\n🎤 Get personalized interview prep questions\n📄 Download all results with one click\nBuilt using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcases how agentic workflows can automate and enhance the job application process.\nContinue reading, explore the app and Github Repo. Thank you!"
   },
   {
     "objectID": "projectscontent/Project 6/index.html#demo-click-the-play-button-to-view-the-demo-video.",
