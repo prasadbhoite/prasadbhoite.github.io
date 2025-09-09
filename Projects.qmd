@@ -17,7 +17,37 @@ Due to non-disclosure agreements, I am unable to showcase all of my projects her
 
 
 
-## 1: Multilingual Virtual Research Assistant (MVRA)
+
+## 1: Grant Writing Assistant (RAG powered AI app)
+
+:::::: columns
+::: {.column width="55%"}
+[![](images/RAGPoweredGrantWriter.png)](projectscontent/Project%209/index.qmd)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+The Grant Writing Assistant is an **AI-powered RAG application** built to support the **NeighborhoodHELP (NHELP)** program. It enables users to query, synthesize, and cite information from a custom knowledge base, making grant writing and program documentation more efficient and accurate. Key features include:
+
+- 💬 Conversational AI with chat memory  
+- 📚 Dynamic ingestion from PDFs and live websites  
+- 🔎 Transparent citations from source documents  
+- ⚡ Streaming token-by-token responses  
+- 🛠️ Developer dashboard for prompt tuning and knowledge base management  
+
+Built with **Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, and GitHub Actions**, this project demonstrates **modern MLOps practices** including CI/CD, observability, and evaluation with Ragas.
+
+[Continue reading](projectscontent/Project%209/index.qmd){target="_blank"}, [explore the app](https://grantwritingassistantnhelp-production-c6ef.up.railway.app/){target="_blank"}.  
+
+:::
+::::::
+
+
+
+
+## 2: Multilingual Virtual Research Assistant (MVRA)
 
 :::::: columns
 ::: {.column width="55%"}
@@ -47,7 +77,7 @@ Built using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrat
 
 
 
-## 2: Multi-Agent Job Application Assistant Crew
+## 3: Multi-Agent Job Application Assistant Crew
 
 :::::: columns
 ::: {.column width="40%"}
@@ -79,7 +109,7 @@ Built using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcas
 
 
 
-## 3: Scientific Research Assistant
+## 4: Scientific Research Assistant
 
 :::::: columns
 ::: {.column width="40%"}
@@ -108,7 +138,7 @@ The app was built using Python, Streamlit, and OpenAI’s API, and is packaged w
 
 
 
-## 4: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms
+## 5: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms
 
 :::::: columns
 ::: {.column width="55%"}
@@ -129,7 +159,7 @@ The primary focus of this project revolves around predicting COVID-19 vaccine he
 
 
 
-## 5: Business Intelligence Projects
+## 6: Business Intelligence Projects
 
 :::::: columns
 ::: {.column width="40%"}
@@ -149,7 +179,7 @@ This page displays the gallery of end-to-end business intelligence projects that
 
 
 
-## 6: Data Warehouse/Data Engineering Project
+## 7: Data Warehouse/Data Engineering Project
 
 :::::: columns
 ::: {.column width="40%"}
@@ -168,7 +198,7 @@ In this project, I played a pivotal role as the lead architect, responsible for 
 
 
 
-## 7: Using `R` to Extract, Organize, & Analyze Complex SDOH Data
+## 8: Using `R` to Extract, Organize, & Analyze Complex SDOH Data
 
 :::::: columns
 ::: {.column width="55%"}
@@ -193,7 +223,7 @@ This presentation takes you through the example and code snippets to show how R 
 
 
 
-## 8: Effortless Access to Household Pulse Survey Datasets with `hpsr`: An `R` Data Package.
+## 9: Effortless Access to Household Pulse Survey Datasets with `hpsr`: An `R` Data Package.
 
 :::::: columns
 ::: {.column width="55%"}

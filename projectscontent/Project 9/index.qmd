@@ -1,0 +1,136 @@
+---
+title: "Grant Writing Assistant"
+author: "Prasad Bhoite"
+#date: "2022-04-02"
+categories: [RAG, LLM, Pinecone, VectorStore, Docker, CI/CD, LLMOps, Langsmith, Railway, Streamlit]
+image: ""
+---
+
+ 
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=6700FD&center=true&vCenter=true&width=850&lines=An+Advanced+AI+Application+for+NHELP" alt="Typing Animation" />
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-3C55F2?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangSmith-FB923C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"/>
+</p>
+
+::: {.callout-tip icon="🧑‍💼"}
+**Grant Writing Assistant** is an AI-powered RAG application designed to help users query and synthesize information from a custom knowledge base about the **NeighborhoodHELP (NHELP)** program.  
+It leverages **Retrieval-Augmented Generation (RAG)** to provide accurate, context-aware answers for grant writing and program documentation.
+:::
+
+---
+
+## 🚀 Features
+
+- 💬 **Conversational AI**: Remembers chat history to handle follow-up questions.
+- 📚 **Dynamic Knowledge Base**: Ingests information from PDFs and live websites.
+- 🔎 **Source Transparency**: Displays references for every answer.
+- ⚡ **Streaming Responses**: Token-by-token output for responsiveness.
+- 🛠️ **Developer Dashboard**: Manage prompts and knowledge base via a Streamlit admin app.
+
+---
+
+## 🧱 MLOps & Professional Practices
+
+- 🔄 **CI/CD**: Automated linting with **Ruff** using GitHub Actions.  
+- 📊 **Evaluation**: Built-in pipeline with **Ragas** to measure faithfulness, relevancy, and answer quality.  
+- 👁️ **Observability**: End-to-end tracing with **LangSmith**.  
+- 📦 **Containerization**: Fully reproducible deployments using **Docker**.  
+- 📝 **Prompt Management**: Externalized into version-controlled `prompts.yml`.  
+
+---
+
+## 🧬 Tech Stack
+
+- **Framework**: [Streamlit](https://streamlit.io/)  
+- **LLM Orchestration**: [LangChain](https://www.langchain.com/)  
+- **LLMs**: OpenAI GPT Models  
+- **Vector Store**: [Pinecone](https://www.pinecone.io/)  
+- **Observability**: [LangSmith](https://docs.smith.langchain.com/)  
+- **Evaluation**: [Ragas](https://docs.ragas.io/)  
+- **Deployment**: Docker + [Railway](https://railway.app/)  
+- **CI/CD**: GitHub Actions  
+
+---
+
+## 🏗️ System Architecture
+
+This project uses a **monolithic architecture** where a single **Streamlit application** handles both the user interface and the RAG logic.  
+Data ingestion is managed by an **offline script** (`ingest.py`).
+
+<p align="center">
+  <img src="Rag1.drawio.svg" alt="RAG Pipeline Diagram" width="800"/>
+</p>
+
+---
+
+## ⚡ Getting Started
+
+### 🔧 Prerequisites
+- Python 3.12+  
+- Docker Desktop (optional for containerized deployment)  
+- API Keys: OpenAI, Pinecone, LangSmith  
+
+### 📥 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Set up environment variables**  
+   Create a `.env` file in the root directory:
+   ```env
+   OPENAI_API_KEY="sk-..."
+   PINECONE_API_KEY="..."
+   LANGCHAIN_API_KEY="..."
+   ```
+
+3. **Install dependencies using uv**
+   ```bash
+   pip install uv
+   uv venv
+   uv sync --all-extras
+   source .venv/bin/activate
+   ```
+
+---
+
+### ▶️ Running the Application
+
+1. **Build the Knowledge Base**
+   ```bash
+   python ingest.py
+   ```
+
+2. **Run the Streamlit App**
+   ```bash
+   streamlit run app.py
+   ```
+
+3. **Access in Browser**
+   Open: `https://grantwritingassistantnhelp-production-c6ef.up.railway.app/`
+
+---
+
+
+## 🖼️ Screenshots
+
+![](RAGPoweredGrantWriter.png)
+
+---

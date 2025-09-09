@@ -95,14 +95,14 @@
     "href": "ProjectsCustoms.html",
     "title": "Projects",
     "section": "",
-    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nMulti-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\nAgentic AI\n\n\nLarge Multimodal Model\n\n\ncrewAI\n\n\nOpenAI\n\n\nSerper\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nMultilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Multimodal Model\n\n\nImage Analysis\n\n\nImage Grounding\n\n\nLlama4\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nScientific Research Assistant\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Language Model\n\n\nOpenAI\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
+    "text": "Business Intelligence (BI) Projects\n\n\n\n\n\n\n\nMS-PowerBI\n\n\nAdvanced SQL\n\n\nSocial Determinants of Health\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nGrant Writing Assistant\n\n\n\n\n\n\n\nRAG\n\n\nLLM\n\n\nPinecone\n\n\nVectorStore\n\n\nDocker\n\n\nCI/CD\n\n\nLLMOps\n\n\nLangsmith\n\n\nRailway\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nMulti-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\nAgentic AI\n\n\nLarge Multimodal Model\n\n\ncrewAI\n\n\nOpenAI\n\n\nSerper\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nMultilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Multimodal Model\n\n\nImage Analysis\n\n\nImage Grounding\n\n\nLlama4\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 1- COVID-19 Vaccine Hesitancy\n\n\n\n\n\n\n\nR\n\n\nPython\n\n\nCOVID\n\n\nMachine Learning\n\n\nFlask\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nProject 3- R for Data Science\n\n\n\n\n\n\n\nR\n\n\nSQL\n\n\nSocial Determinants of Health\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2022\n\n\nPrasad Bhoite\n\n\n\n\n\n\n  \n\n\n\n\nScientific Research Assistant\n\n\n\n\n\n\n\nGenerative AI\n\n\nLarge Language Model\n\n\nOpenAI\n\n\nStreamlit\n\n\n\n\n\n\n\n\n\n\n\nPrasad Bhoite\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
     "href": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data",
     "title": "Prasad Bhoite",
-    "section": "7: Using R to Extract, Organize, & Analyze Complex SDOH Data",
-    "text": "7: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
+    "section": "8: Using R to Extract, Organize, & Analyze Complex SDOH Data",
+    "text": "8: Using R to Extract, Organize, & Analyze Complex SDOH Data\n\n\nThis was an invited presentation to International Data Conference at Miami. This presentation walks through how R is used during end-to-end real life data science project.\nThis presentation takes you through the example and code snippets to show how R can be used to connect to SQL server databse, for data manipulation, analysis and finally reporting….. Continue reading"
   },
   {
     "objectID": "Projects.html#project-1-using-r-to-extract-organize-analyze-complex-sdoh-data",
@@ -122,8 +122,8 @@
     "objectID": "Projects.html#business-intelligence-projects",
     "href": "Projects.html#business-intelligence-projects",
     "title": "Prasad Bhoite",
-    "section": "5: Business Intelligence Projects",
-    "text": "5: Business Intelligence Projects\n\n\n\n\n\n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading"
+    "section": "6: Business Intelligence Projects",
+    "text": "6: Business Intelligence Projects\n\n\n\n\n\n\n\n\n\n\nThis page displays the gallery of end-to-end business intelligence projects that I have completed. The advanced SQL queries were built to extract the data from MS-SQL server. MS-PowerBI desktop was used to built the business intelligence reports/dashboards and to publish on Power BI service….Continue reading"
   },
   {
     "objectID": "Projects.html#machine-learning-projects",
@@ -136,8 +136,8 @@
     "objectID": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms",
     "href": "Projects.html#predicting-covid-19-vaccine-hesitancy-among-us-adults-using-classification-algorithms",
     "title": "Prasad Bhoite",
-    "section": "4: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms",
-    "text": "4: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms\n\n\nThe primary focus of this project revolves around predicting COVID-19 vaccine hesitancy among adults in the United States. To achieve this objective, I employ classification machine learning algorithms and analyze data sourced from the Household Pulse Survey data. Through rigorous examination and interpretation of the data, I aim to gain valuable insights into the factors influencing vaccine hesitancy, ultimately contributing to a better understanding of vaccination patterns and behaviors among the US population…..Continue reading"
+    "section": "5: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms",
+    "text": "5: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms\n\n\nThe primary focus of this project revolves around predicting COVID-19 vaccine hesitancy among adults in the United States. To achieve this objective, I employ classification machine learning algorithms and analyze data sourced from the Household Pulse Survey data. Through rigorous examination and interpretation of the data, I aim to gain valuable insights into the factors influencing vaccine hesitancy, ultimately contributing to a better understanding of vaccination patterns and behaviors among the US population…..Continue reading"
   },
   {
     "objectID": "Projects.html#data-warehousing",
@@ -276,15 +276,15 @@
     "objectID": "Projects.html#effortless-access-to-household-pulse-survey-datasets-with-hpsr-an-r-data-package.",
     "href": "Projects.html#effortless-access-to-household-pulse-survey-datasets-with-hpsr-an-r-data-package.",
     "title": "Prasad Bhoite",
-    "section": "8: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.",
-    "text": "8: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.\n\n\nThis project focuses on the development of an R data package- ‘hpsr’, employing tools such as usethis, Rtools, and R Studio.\nThe methodology involves downloading CSV files from the Census website, optimizing storage efficiency through Parquet conversion and easy storage on Github, further transforming these files into .rda datasets. The culminating step involves sharing the comprehensive package on GitHub as an open-source contribution to the field of data science…… Continue reading"
+    "section": "9: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.",
+    "text": "9: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package.\n\n\nThis project focuses on the development of an R data package- ‘hpsr’, employing tools such as usethis, Rtools, and R Studio.\nThe methodology involves downloading CSV files from the Census website, optimizing storage efficiency through Parquet conversion and easy storage on Github, further transforming these files into .rda datasets. The culminating step involves sharing the comprehensive package on GitHub as an open-source contribution to the field of data science…… Continue reading"
   },
   {
     "objectID": "Projects.html#data-warehousedata-engineering-project",
     "href": "Projects.html#data-warehousedata-engineering-project",
     "title": "Prasad Bhoite",
-    "section": "6: Data Warehouse/Data Engineering Project",
-    "text": "6: Data Warehouse/Data Engineering Project\n\n\n\n\n\n\nIn this project, I played a pivotal role as the lead architect, responsible for meticulously crafting, designing, and spearheading the development of a comprehensive data warehouse on Azure Synapse Analytics. By starting from scratch and leveraging the power of the Azure platform, we successfully built a sophisticated data infrastructure. This endeavor stands as a testament to my formidable data engineering prowess and showcases the depth of my expertise in this domain…..Continue reading"
+    "section": "7: Data Warehouse/Data Engineering Project",
+    "text": "7: Data Warehouse/Data Engineering Project\n\n\n\n\n\n\nIn this project, I played a pivotal role as the lead architect, responsible for meticulously crafting, designing, and spearheading the development of a comprehensive data warehouse on Azure Synapse Analytics. By starting from scratch and leveraging the power of the Azure platform, we successfully built a sophisticated data infrastructure. This endeavor stands as a testament to my formidable data engineering prowess and showcases the depth of my expertise in this domain…..Continue reading"
   },
   {
     "objectID": "about.html#awards-recognition",
@@ -297,8 +297,8 @@
     "objectID": "Projects.html#scientific-research-assistant",
     "href": "Projects.html#scientific-research-assistant",
     "title": "Prasad Bhoite",
-    "section": "3: Scientific Research Assistant",
-    "text": "3: Scientific Research Assistant\n\n\n\n\n\n\n\n\n\n\nThis interactive Generative AI application leverages OpenAI’s GPT-4 to assist with scientific paper workflows. It enables researchers and academics to:\n\n📄 Upload a PDF and extract structured text\n📚 Automatically summarize key findings, objectives, and limitations\n🧑‍⚖️ Generate peer reviews in customizable tone (neutral, critical, or supportive)\n🔗 Analyze citations for recency, diversity, and relevance\n\nThe app was built using Python, Streamlit, and OpenAI’s API, and is packaged with secure .env key handling. It serves as a productivity tool for literature evaluation and publication support.\nContinue reading, explore the app and Github Repo. Thank you!"
+    "section": "4: Scientific Research Assistant",
+    "text": "4: Scientific Research Assistant\n\n\n\n\n\n\n\n\n\n\nThis interactive Generative AI application leverages OpenAI’s GPT-4 to assist with scientific paper workflows. It enables researchers and academics to:\n\n📄 Upload a PDF and extract structured text\n📚 Automatically summarize key findings, objectives, and limitations\n🧑‍⚖️ Generate peer reviews in customizable tone (neutral, critical, or supportive)\n🔗 Analyze citations for recency, diversity, and relevance\n\nThe app was built using Python, Streamlit, and OpenAI’s API, and is packaged with secure .env key handling. It serves as a productivity tool for literature evaluation and publication support.\nContinue reading, explore the app and Github Repo. Thank you!"
   },
   {
     "objectID": "projectscontent/Project 5/index.html",
@@ -353,8 +353,8 @@
     "objectID": "Projects.html#multilingual-virtual-research-assistant-mvra",
     "href": "Projects.html#multilingual-virtual-research-assistant-mvra",
     "title": "Prasad Bhoite",
-    "section": "1: Multilingual Virtual Research Assistant (MVRA)",
-    "text": "1: Multilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\n\n\n\nThe MVRA application is a powerful multimodal AI assistant built with Meta’s LLaMA 4 and integrates advanced vision-language capabilities for research and education. Key features include:\n\n🧠 Ask general questions and receive contextual answers\n📰 Summarize long academic texts instantly\n🖼️ Analyze and compare up to 9 images via URLs or file uploads\n🌐 Translate messages between multiple languages interactively\n🗂️ Perform image grounding with bounding boxes on uploaded files\n\nBuilt using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrates how LLMs can bridge language, vision, and text for multilingual, multimodal workflows.\nContinue reading, explore the app and Github Repo. Thank you!"
+    "section": "2: Multilingual Virtual Research Assistant (MVRA)",
+    "text": "2: Multilingual Virtual Research Assistant (MVRA)\n\n\n\n\n\n\n\n\n\n\nThe MVRA application is a powerful multimodal AI assistant built with Meta’s LLaMA 4 and integrates advanced vision-language capabilities for research and education. Key features include:\n\n🧠 Ask general questions and receive contextual answers\n📰 Summarize long academic texts instantly\n🖼️ Analyze and compare up to 9 images via URLs or file uploads\n🌐 Translate messages between multiple languages interactively\n🗂️ Perform image grounding with bounding boxes on uploaded files\n\nBuilt using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrates how LLMs can bridge language, vision, and text for multilingual, multimodal workflows.\nContinue reading, explore the app and Github Repo. Thank you!"
   },
   {
     "objectID": "projectscontent/Project 6/index.html",
@@ -486,8 +486,8 @@
     "objectID": "Projects.html#multi-agent-job-application-assistant-crew",
     "href": "Projects.html#multi-agent-job-application-assistant-crew",
     "title": "Prasad Bhoite",
-    "section": "2: Multi-Agent Job Application Assistant Crew",
-    "text": "2: Multi-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\n\n\n\nThis Multi-Agent Job Application Assistant Crew is a modular, agentic job-seeking assistant built using the CrewAI framework. It uses multiple AI agents to collaboratively generate tailored resumes and interview materials based on a user-uploaded resume (Markdown or PDF).\n💼 Upload your resume (Markdown or PDF)\n🧠 Agents analyze your experience and target job\n✍️ Generate a customized resume\n🎤 Get personalized interview prep questions\n📄 Download all results with one click\nBuilt using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcases how agentic workflows can automate and enhance the job application process.\nContinue reading, explore the app and Github Repo. Thank you!"
+    "section": "3: Multi-Agent Job Application Assistant Crew",
+    "text": "3: Multi-Agent Job Application Assistant Crew\n\n\n\n\n\n\n\n\n\n\nThis Multi-Agent Job Application Assistant Crew is a modular, agentic job-seeking assistant built using the CrewAI framework. It uses multiple AI agents to collaboratively generate tailored resumes and interview materials based on a user-uploaded resume (Markdown or PDF).\n💼 Upload your resume (Markdown or PDF)\n🧠 Agents analyze your experience and target job\n✍️ Generate a customized resume\n🎤 Get personalized interview prep questions\n📄 Download all results with one click\nBuilt using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcases how agentic workflows can automate and enhance the job application process.\nContinue reading, explore the app and Github Repo. Thank you!"
   },
   {
     "objectID": "projectscontent/Project 6/index.html#demo-click-the-play-button-to-view-the-demo-video.",
@@ -495,5 +495,124 @@
     "title": "Scientific Research Assistant",
     "section": "🧬 Demo (Click the play button to view the demo video.)",
     "text": "🧬 Demo (Click the play button to view the demo video.)"
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html",
+    "href": "projectscontent/Project 9/index.html",
+    "title": "Grant Writing Assistant",
+    "section": "",
+    "text": "An AI-powered Grant Writing Assistant designed to help users query and synthesize information from a custom knowledge base about the NeighborhoodHELP (NHELP) program. This application leverages a Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers.\nThis project is a full-stack AI application demonstrating modern MLOps practices, including a containerized, monolithic architecture and a complete CI/CD and evaluation pipeline."
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#features",
+    "href": "projectscontent/Project 9/index.html#features",
+    "title": "Grant Writing Assistant",
+    "section": "🚀 Features",
+    "text": "🚀 Features\n\n💬 Conversational AI: Remembers chat history to handle follow-up questions.\n📚 Dynamic Knowledge Base: Ingests information from PDFs and live websites.\n🔎 Source Transparency: Displays references for every answer.\n⚡ Streaming Responses: Token-by-token output for responsiveness.\n🛠️ Developer Dashboard: Manage prompts and knowledge base via a Streamlit admin app."
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#tech-stack",
+    "href": "projectscontent/Project 9/index.html#tech-stack",
+    "title": "Grant Writing Assistant",
+    "section": "🧬 Tech Stack",
+    "text": "🧬 Tech Stack\n\nFramework: Streamlit\n\nLLM Orchestration: LangChain\n\nLLMs: OpenAI GPT Models\n\nVector Store: Pinecone\n\nObservability: LangSmith\n\nEvaluation: Ragas\n\nDeployment: Docker + Railway\n\nCI/CD: GitHub Actions"
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#github-repository",
+    "href": "projectscontent/Project 9/index.html#github-repository",
+    "title": "Grant Writing Assistant",
+    "section": "🔗 GitHub Repository",
+    "text": "🔗 GitHub Repository\n👉 Explore Source Code: https://github.com/your-username/your-repo-name"
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#screenshots",
+    "href": "projectscontent/Project 9/index.html#screenshots",
+    "title": "Grant Writing Assistant",
+    "section": "🖼️ Screenshots",
+    "text": "🖼️ Screenshots"
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#live-demo",
+    "href": "projectscontent/Project 9/index.html#live-demo",
+    "title": "Grant Writing Assistant",
+    "section": "🧪 Live Demo",
+    "text": "🧪 Live Demo"
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#features-1",
+    "href": "projectscontent/Project 9/index.html#features-1",
+    "title": "Grant Writing Assistant",
+    "section": "Features",
+    "text": "Features\n\nConversational AI: Remembers chat history to answer follow-up questions accurately.\nDynamic Knowledge Base: Ingests information from both PDF documents and live websites.\nSource Transparency: Displays the source documents used to generate each answer, improving user trust.\nStreaming Responses: Streams answers token-by-token for a responsive user experience.\nDeveloper Dashboard: A separate Streamlit app for managing the knowledge base and tuning system prompts."
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#mlops-professional-practices",
+    "href": "projectscontent/Project 9/index.html#mlops-professional-practices",
+    "title": "Grant Writing Assistant",
+    "section": "🧱 MLOps & Professional Practices",
+    "text": "🧱 MLOps & Professional Practices\n\n🔄 CI/CD: Automated linting with Ruff using GitHub Actions.\n\n📊 Evaluation: Built-in pipeline with Ragas to measure faithfulness, relevancy, and answer quality.\n\n👁️ Observability: End-to-end tracing with LangSmith.\n\n📦 Containerization: Fully reproducible deployments using Docker.\n\n📝 Prompt Management: Externalized into version-controlled prompts.yml."
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#tech-stack-1",
+    "href": "projectscontent/Project 9/index.html#tech-stack-1",
+    "title": "Grant Writing Assistant",
+    "section": "Tech Stack",
+    "text": "Tech Stack"
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#system-architecture",
+    "href": "projectscontent/Project 9/index.html#system-architecture",
+    "title": "Grant Writing Assistant",
+    "section": "🏗️ System Architecture",
+    "text": "🏗️ System Architecture\nThis project uses a monolithic architecture where a single Streamlit application handles both the user interface and the RAG logic.\nData ingestion is managed by an offline script (ingest.py)."
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#getting-started",
+    "href": "projectscontent/Project 9/index.html#getting-started",
+    "title": "Grant Writing Assistant",
+    "section": "⚡ Getting Started",
+    "text": "⚡ Getting Started\n\n🔧 Prerequisites\n\nPython 3.12+\n\nDocker Desktop (optional for containerized deployment)\n\nAPI Keys: OpenAI, Pinecone, LangSmith\n\n\n\n📥 Installation & Setup\n\nClone the repository\ngit clone https://github.com/your-username/your-repo-name.git\ncd your-repo-name\nSet up environment variables\nCreate a .env file in the root directory:\nOPENAI_API_KEY=\"sk-...\"\nPINECONE_API_KEY=\"...\"\nLANGCHAIN_API_KEY=\"...\"\nInstall dependencies using uv\npip install uv\nuv venv\nuv sync --all-extras\nsource .venv/bin/activate\n\n\n\n\n▶️ Running the Application\n\nBuild the Knowledge Base\npython ingest.py\nRun the Streamlit App\nstreamlit run app.py\nAccess in Browser Open: https://grantwritingassistantnhelp-production-c6ef.up.railway.app/"
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#mlops-professional-practices-1",
+    "href": "projectscontent/Project 9/index.html#mlops-professional-practices-1",
+    "title": "Grant Writing Assistant",
+    "section": "MLOps & Professional Practices",
+    "text": "MLOps & Professional Practices\n\nCI/CD: An automated CI pipeline using GitHub Actions to lint code with Ruff on every push.\nObservability: Integrated with LangSmith for full end-to-end tracing and debugging of the RAG chain.\nEvaluation: A repeatable evaluation pipeline using Ragas to quantitatively measure the quality of the RAG system (faithfulness, relevancy, etc.).\nContainerization: Fully containerized with Docker for reproducible deployments.\nPrompt Management: System prompts are externalized into a version-controlled prompts.yml file."
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#system-architecture-1",
+    "href": "projectscontent/Project 9/index.html#system-architecture-1",
+    "title": "Grant Writing Assistant",
+    "section": "System Architecture",
+    "text": "System Architecture\nThis project uses a monolithic architecture where a single Streamlit application handles both the user interface and the RAG logic. Data ingestion is handled by a separate, offline script."
+  },
+  {
+    "objectID": "projectscontent/Project 9/index.html#getting-started-1",
+    "href": "projectscontent/Project 9/index.html#getting-started-1",
+    "title": "Grant Writing Assistant",
+    "section": "Getting Started",
+    "text": "Getting Started\n\nPrerequisites\n\nPython 3.12+\nDocker Desktop (optional, for containerized deployment)\nAPI keys for OpenAI, Pinecone, and LangSmith\n\n\n\nLocal Installation & Setup\n\nClone the repository: sh     git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)     cd your-repo-name\nCreate a .env file: In the root directory, create a .env file for your API keys. This is used by the ingest.py and evaluate.py scripts. OPENAI_API_KEY=\"sk-...\"     PINECONE_API_KEY=\"...\"     LANGCHAIN_API_KEY=\"...\"\nInstall dependencies: This project uses uv for package management.\n# Install uv if you don't have it\npip install uv\n\n# Create a virtual environment and install packages\nuv venv\nuv sync --all-extras\nsource .venv/bin/activate\n\n\n\nRunning the Application\n\nBuild the Knowledge Base: Run the ingestion script once to process your documents and populate your Pinecone index. sh     python ingest.py\nRun the Streamlit App: sh     streamlit run app.py\nAccess the App: Open your web browser and go to http://localhost:8501."
+  },
+  {
+    "objectID": "Projects.html#grant-writing-assistant-rag",
+    "href": "Projects.html#grant-writing-assistant-rag",
+    "title": "Prasad Bhoite",
+    "section": "2: Grant Writing Assistant (RAG)",
+    "text": "2: Grant Writing Assistant (RAG)\n\n\n\n\n\n\n\n\n\n\nThe Grant Writing Assistant is an AI-powered RAG application built to support the NeighborhoodHELP (NHELP) program. It enables users to query, synthesize, and cite information from a custom knowledge base, making grant writing and program documentation more efficient and accurate. Key features include:\n\n💬 Conversational AI with chat memory\n\n📚 Dynamic ingestion from PDFs and live websites\n\n🔎 Transparent citations from source documents\n\n⚡ Streaming token-by-token responses\n\n🛠️ Developer dashboard for prompt tuning and knowledge base management\n\nBuilt with Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, and GitHub Actions, this project demonstrates modern MLOps practices including CI/CD, observability, and evaluation with Ragas.\nContinue reading, explore the app."
+  },
+  {
+    "objectID": "Projects.html#grant-writing-assistant-rag-powered-ai-application",
+    "href": "Projects.html#grant-writing-assistant-rag-powered-ai-application",
+    "title": "Prasad Bhoite",
+    "section": "2: Grant Writing Assistant (RAG powered AI application)",
+    "text": "2: Grant Writing Assistant (RAG powered AI application)\n\n\n\n\n\n\n\n\n\n\nThe Grant Writing Assistant is an AI-powered RAG application built to support the NeighborhoodHELP (NHELP) program. It enables users to query, synthesize, and cite information from a custom knowledge base, making grant writing and program documentation more efficient and accurate. Key features include:\n\n💬 Conversational AI with chat memory\n\n📚 Dynamic ingestion from PDFs and live websites\n\n🔎 Transparent citations from source documents\n\n⚡ Streaming token-by-token responses\n\n🛠️ Developer dashboard for prompt tuning and knowledge base management\n\nBuilt with Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, and GitHub Actions, this project demonstrates modern MLOps practices including CI/CD, observability, and evaluation with Ragas.\nContinue reading, explore the app."
+  },
+  {
+    "objectID": "Projects.html#grant-writing-assistant-rag-powered-ai-app",
+    "href": "Projects.html#grant-writing-assistant-rag-powered-ai-app",
+    "title": "Prasad Bhoite",
+    "section": "1: Grant Writing Assistant (RAG powered AI app)",
+    "text": "1: Grant Writing Assistant (RAG powered AI app)\n\n\n\n\n\n\n\n\n\n\nThe Grant Writing Assistant is an AI-powered RAG application built to support the NeighborhoodHELP (NHELP) program. It enables users to query, synthesize, and cite information from a custom knowledge base, making grant writing and program documentation more efficient and accurate. Key features include:\n\n💬 Conversational AI with chat memory\n\n📚 Dynamic ingestion from PDFs and live websites\n\n🔎 Transparent citations from source documents\n\n⚡ Streaming token-by-token responses\n\n🛠️ Developer dashboard for prompt tuning and knowledge base management\n\nBuilt with Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, and GitHub Actions, this project demonstrates modern MLOps practices including CI/CD, observability, and evaluation with Ragas.\nContinue reading, explore the app."
   }
 ]
