@@ -571,7 +571,7 @@
     "href": "projectscontent/Project 9/index.html#getting-started",
     "title": "Grant Writing Assistant",
     "section": "⚡ Getting Started",
-    "text": "⚡ Getting Started\n\n🔧 Prerequisites\n\nPython 3.12+\n\nDocker Desktop (optional for containerized deployment)\n\nAPI Keys: OpenAI, Pinecone, LangSmith\n\n\n\n📥 Installation & Setup\n\nClone the repository\ngit clone https://github.com/your-username/your-repo-name.git\ncd your-repo-name\nSet up environment variables\nCreate a .env file in the root directory:\nOPENAI_API_KEY=\"sk-...\"\nPINECONE_API_KEY=\"...\"\nLANGCHAIN_API_KEY=\"...\"\nInstall dependencies using uv\npip install uv\nuv venv\nuv sync --all-extras\nsource .venv/bin/activate\n\n\n\n\n▶️ Running the Application\n\nBuild the Knowledge Base\npython ingest.py\nRun the Streamlit App\nstreamlit run app.py\nAccess in Browser Open: https://grantwritingassistantnhelp-production-c6ef.up.railway.app/"
+    "text": "⚡ Getting Started\n\n▶️ Running the Application\n\nAccess in Browser Open: https://grantwritingassistantnhelp-production-c6ef.up.railway.app/"
   },
   {
     "objectID": "projectscontent/Project 9/index.html#mlops-professional-practices-1",
