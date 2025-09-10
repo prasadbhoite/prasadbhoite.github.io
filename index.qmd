@@ -1,6 +1,6 @@
 ---
 title: "Prasad Bhoite"
-subtitle: "Lead Data Scientist"
+subtitle: "Senior Data Scientist"
 image: images/ProfileImage.jpg
 about: 
   template: trestles
@@ -21,10 +21,10 @@ about:
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> , I'm Prasad
 
-I am a Lead Data Scientist at Herbert Wertheim College of Medicine, Florida International University, Miami, USA.
+I am a Senior Data Scientist Manager with 10+ years of experience building AI and machine learning solutions in healthcare and public health. I lead a data team at the Herbert Wertheim College of Medicine, Florida International University, overseeing ML model development, predictive analytics, and AI-driven research projects funded by the university, the state of Florida, and external institutions.
 
-I am a foreign medical graduate with a unique educational background comprising clinical, social, statistical, and computational studies. I lead the data team and oversee statistical and machine learning projects funded internally by the university, the state of Florida, and other funding clinical institutions.
+My background combines clinical knowledge, statistical expertise, and computational skills, allowing me to design end-to-end AI/ML pipelines, from data engineering and feature engineering to model deployment and visualization. I am experienced in Python, R, SQL, MS-Azure, PowerBI, ArcGIS, and modern ML frameworks, including hands-on work with Generative AI, LLMs, and predictive modeling.
 
-I enjoy displaying the value of analytics using tools such as Python, R, SQL, ArcGIS, MS-PowerBI, Atlas.ti, MS-Azure. I have extensive experience and expertise in Data Management, Machine Learning, Business Intelligence, and Statistical & Predictive Analytics.
+I am passionate about leveraging AI to solve complex problems and delivering high-impact, scalable solutions that bridge research and real-world applications.
 
 Thank you for visiting!
