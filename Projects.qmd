@@ -21,14 +21,15 @@ Due to non-disclosure agreements, I am unable to showcase all of my projects her
 ## 1: Grant Writing Assistant (RAG powered AI app)
 
 :::::: columns
-::: {.column width="55%"}
-[![](images/RAGPoweredGrantWriter.png)](projectscontent/Project%209/index.qmd)
+::: {.column width="40%"}
+[![](images/RAGPoweredGrantWriter.png){width=340px height=460px}](projectscontent/Project%209/index.qmd)
+
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="40%"}
+::: {.column width="55%"}
 The Grant Writing Assistant is an **AI-powered RAG application** built to support the **NeighborhoodHELP (NHELP)** program. It enables users to query, synthesize, and cite information from a custom knowledge base, making grant writing and program documentation more efficient and accurate. Key features include:
 
 - 💬 Conversational AI with chat memory  
@@ -36,9 +37,10 @@ The Grant Writing Assistant is an **AI-powered RAG application** built to suppor
 - 🔎 Transparent citations from source documents  
 - ⚡ Streaming token-by-token responses  
 - 🛠️ Developer dashboard for prompt tuning and knowledge base management  
+- 🧩 Refactored into a **microservices architecture** using **FastAPI**, enabling modular deployment, scalability, and service isolation  
 
-Built with **Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, and GitHub Actions**, this project demonstrates **modern MLOps practices** including CI/CD, observability, and evaluation with Ragas.
 
+Built with **Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, GitHub Actions and FastAPI**, this project demonstrates **modern MLOps practices** including CI/CD, observability, and evaluation with Ragas.
 [Continue reading](projectscontent/Project%209/index.qmd){target="_blank"}, [explore the app](https://grantwritingassistantnhelp-production-c6ef.up.railway.app/){target="_blank"}.  
 
 :::
@@ -50,14 +52,14 @@ Built with **Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, and GitHub Acti
 ## 2: Multilingual Virtual Research Assistant (MVRA)
 
 :::::: columns
-::: {.column width="55%"}
-[![](images/MVRA)](projectscontent/Project%207/index.qmd)
+::: {.column width="40%"}
+[![](images/MVRA){width=340px height=460px}](projectscontent/Project%207/index.qmd)
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="40%"}
+::: {.column width="55%"}
 The MVRA application is a powerful multimodal AI assistant built with Meta’s LLaMA 4 and integrates advanced vision-language capabilities for research and education. Key features include:
 
 - 🧠 Ask general questions and receive contextual answers
@@ -81,7 +83,7 @@ Built using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrat
 
 :::::: columns
 ::: {.column width="40%"}
-[![](images/MultiAgentJobApplicationCrew)](projectscontent/Project%208/index.qmd)
+[![](images/MultiAgentJobApplicationCrew){width=340px height=460px}](projectscontent/Project%208/index.qmd)
 :::
 
 ::: {.column width="5%"}
@@ -113,7 +115,7 @@ Built using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcas
 
 :::::: columns
 ::: {.column width="40%"}
-[![](images/ScientificResearchAssistant_AI)](projectscontent/Project%206/index.qmd)
+[![](images/ScientificResearchAssistant_AI){width=340px height=460px}](projectscontent/Project%206/index.qmd)
 :::
 
 ::: {.column width="5%"}
@@ -149,7 +151,7 @@ The primary focus of this project revolves around predicting COVID-19 vaccine he
 :::
 
 ::: {.column width="40%"}
-[![](images/CovidVac)](projectscontent/Project%201/VaccineHesitancy_PBB.pdf)
+[![](images/CovidVac){width=340px height=260px}](projectscontent/Project%201/VaccineHesitancy_PBB.pdf)
 :::
 ::::::
 
@@ -210,7 +212,7 @@ This presentation takes you through the example and code snippets to show how R 
 :::
 
 ::: {.column width="40%"}
-[![](images/DataAnalysisProcess)](https://rpubs.com/igonz009/953071)
+[![](images/DataAnalysisProcess){width=360px height=200px}](https://rpubs.com/igonz009/953071)
 :::
 ::::::
 
@@ -235,7 +237,7 @@ The methodology involves downloading CSV files from the Census website, optimizi
 :::
 
 ::: {.column width="40%"}
-[![](images/hpsr_url)](https://prasadbhoite.github.io/hpsr/)
+[![](images/hpsr_url){width=340px height=300px}](https://prasadbhoite.github.io/hpsr/)
 :::
 ::::::
 
