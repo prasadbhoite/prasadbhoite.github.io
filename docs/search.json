@@ -614,5 +614,12 @@
     "title": "Prasad Bhoite",
     "section": "1: Grant Writing Assistant (RAG powered AI app)",
     "text": "1: Grant Writing Assistant (RAG powered AI app)\n\n\n\n\n\n\n\n\n\n\nThe Grant Writing Assistant is an AI-powered RAG application built to support the NeighborhoodHELP (NHELP) program. It enables users to query, synthesize, and cite information from a custom knowledge base, making grant writing and program documentation more efficient and accurate. Key features include:\n\n💬 Conversational AI with chat memory\n\n📚 Dynamic ingestion from PDFs and live websites\n\n🔎 Transparent citations from source documents\n\n⚡ Streaming token-by-token responses\n\n🛠️ Developer dashboard for prompt tuning and knowledge base management\n\n🧩 Refactored into a microservices architecture using FastAPI, enabling modular deployment, scalability, and service isolation\n\nBuilt with Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, GitHub Actions and FastAPI, this project demonstrates modern MLOps practices including CI/CD, observability, and evaluation with Ragas. Continue reading, explore the app."
+  },
+  {
+    "objectID": "Projects.html#effortless-access-to-household-pulse-survey-datasets-with-hpsr-an-r-data-package",
+    "href": "Projects.html#effortless-access-to-household-pulse-survey-datasets-with-hpsr-an-r-data-package",
+    "title": "Prasad Bhoite",
+    "section": "9: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package",
+    "text": "9: Effortless Access to Household Pulse Survey Datasets with hpsr: An R Data Package\n\n\nThis project focuses on the development of an R data package- ‘hpsr’, employing tools such as usethis, Rtools, and R Studio.\nThe methodology involves downloading CSV files from the Census website, optimizing storage efficiency through Parquet conversion and easy storage on Github, further transforming these files into .rda datasets. The culminating step involves sharing the comprehensive package on GitHub as an open-source contribution to the field of data science…… Continue reading"
   }
 ]
