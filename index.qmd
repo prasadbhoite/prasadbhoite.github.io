@@ -1,7 +1,7 @@
 ---
 title: "Prasad Bhoite"
 subtitle: "Senior Data Scientist"
-image: images/ProfileImage.jpg
+image: images/ProfilePhoto.jpeg
 about: 
   template: trestles
   image-shape: rounded
