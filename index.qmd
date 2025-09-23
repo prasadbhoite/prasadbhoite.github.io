@@ -28,3 +28,8 @@ My background combines clinical knowledge, statistical expertise, and computatio
 I am passionate about leveraging AI to solve complex problems and delivering high-impact, scalable solutions that bridge research and real-world applications.
 
 Thank you for visiting!
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=55&section=footer"/>
+</p>
