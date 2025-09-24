@@ -263,7 +263,7 @@
     "href": "about.html#certifications-badges",
     "title": "About",
     "section": "Certifications & Badges",
-    "text": "Certifications & Badges\n\n Microsoft Certified: Azure Data Engineer Associate (DP-203)\n Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)\n                   Microsoft Certified: Azure AI Fundamentals (AI-900)\n                       Microsoft Certified: Azure Data Fundamentals (DP-900)\n                        Microsoft Certified: Azure Fundamentals (AZ-900)"
+    "text": "Certifications & Badges\n\n Microsoft Certified: Azure Data Scientist Associate (DP-100)\n Microsoft Certified: Azure Data Engineer Associate (DP-203)\n Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)\n                   Microsoft Certified: Azure AI Fundamentals (AI-900)\n                       Microsoft Certified: Azure Data Fundamentals (DP-900)\n                        Microsoft Certified: Azure Fundamentals (AZ-900)"
   },
   {
     "objectID": "Projects.html#using-r-to-extract-organize-analyze-complex-sdoh-data-1",

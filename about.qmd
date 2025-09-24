@@ -42,6 +42,9 @@ Resident \| Madhukar General Hospital, Pune, MH, India \| Jul 2008 - Dec 2008
 
 ## Certifications & Badges
 
+
+-   <a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/30FC4120FD997B46?sharingId=A37ED2CA2783347"><img src="images/AZ-DataScientist-Badge.png" alt="Microsoft Certified: Azure Data Scientist Associate (DP-100)" width="220"/></a> [Microsoft Certified: Azure Data Scientist Associate (DP-100)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/30FC4120FD997B46?sharingId=A37ED2CA2783347)
+
 -   <a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/602678976B03E6EF?sharingId=A37ED2CA2783347"><img src="images/AZ Data Engineer Badge.png" alt="Microsoft Certified: Azure Data Engineer Associate (DP-203)" width="220"/></a> [Microsoft Certified: Azure Data Engineer Associate (DP-203)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/602678976B03E6EF?sharingId=A37ED2CA2783347)
 
 -   <a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/9AC7641C7A24B35?sharingId=A37ED2CA2783347"><img src="images/Azure PBI Data Analyst Badge.png" alt="Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)" width="210"/></a> [Microsoft Certified: Azure Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/9AC7641C7A24B35?sharingId=A37ED2CA2783347)
