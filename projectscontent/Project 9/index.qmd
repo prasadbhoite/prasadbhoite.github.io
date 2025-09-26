@@ -6,117 +6,79 @@ categories: [RAG, LLM, Pinecone, VectorStore, Docker, CI/CD, LLMOps, Langsmith, 
 image: ""
 ---
 
- 
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=6700FD&center=true&vCenter=true&width=850&lines=An+Advanced+AI+Application+for+NHELP" alt="Typing Animation" />
-
-</div>
+::: {align="center"}
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=6700FD&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=An+Advanced+AI+Application+for+NHELP" alt="Typing Animation"/>
+:::
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  </a>
-  <a href="https://python.langchain.com/">
-    <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=white"/>
-  </a>
-  <a href="https://openai.com/">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  </a>
-  <a href="https://www.pinecone.io/">
-    <img src="https://img.shields.io/badge/Pinecone-3C55F2?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  </a>
-    <a href="https://astral.sh/uv">
-    <img src="https://img.shields.io/badge/uv-4C4CF1?style=for-the-badge&logo=uv&logoColor=white"/>
-  <a href="https://docs.github.com/en/actions">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  </a>
-  <a href="https://docs.ragas.io/">
-    <img src="https://img.shields.io/badge/Ragas-00C5C5?style=for-the-badge&logo=ragas&logoColor=white"/>
-  </a>
-  <a href="https://www.langchain.com/langsmith">
-    <img src="https://img.shields.io/badge/LangSmith-FB923C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  </a>
-  <a href="https://railway.app/">
-    <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"/>
-  </a>
-  </p>
 
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/> </a> <a href="https://streamlit.io/"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/> </a> <a href="https://python.langchain.com/"> <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/> </a> <a href="https://openai.com/"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/> </a> <a href="https://www.pinecone.io/"> <img src="https://img.shields.io/badge/Pinecone-3C55F2?style=for-the-badge&amp;logo=pinecone&amp;logoColor=white"/> </a> <a href="https://www.docker.com/"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/> </a> <a href="https://astral.sh/uv"> <img src="https://img.shields.io/badge/uv-4C4CF1?style=for-the-badge&amp;logo=uv&amp;logoColor=white"/> <a href="https://docs.github.com/en/actions"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white"/> </a> <a href="https://fastapi.tiangolo.com/"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/> </a> <a href="https://docs.ragas.io/"> <img src="https://img.shields.io/badge/Ragas-00C5C5?style=for-the-badge&amp;logo=ragas&amp;logoColor=white"/> </a> <a href="https://www.langchain.com/langsmith"> <img src="https://img.shields.io/badge/LangSmith-FB923C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/> </a> <a href="https://railway.app/"> <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&amp;logo=railway&amp;logoColor=white"/> </a>
+
+</p>
 
 ::: {.callout-tip icon="🧑‍💼"}
-**Grant Writing Assistant** is an AI-powered RAG application designed to help users query and synthesize information from a custom knowledge base about the **NeighborhoodHELP (NHELP)** program.  
+**Grant Writing Assistant** is an AI-powered RAG application designed to help users query and synthesize information from a custom knowledge base about the **NeighborhoodHELP (NHELP)** program.\
 It leverages **Retrieval-Augmented Generation (RAG)** to provide accurate, context-aware answers for grant writing and program documentation.
 :::
 
----
+------------------------------------------------------------------------
 
 ## 🚀 Features
 
-- 💬 **Conversational AI**: Remembers chat history to handle follow-up questions.
-- 📚 **Dynamic Knowledge Base**: Ingests information from PDFs and live websites.
-- 🔎 **Source Transparency**: Displays references for every answer.
-- ⚡ **Streaming Responses**: Token-by-token output for responsiveness.
-- 🛠️ **Developer Dashboard**: Manage prompts and knowledge base via a Streamlit admin app.
+-   💬 **Conversational AI**: Remembers chat history to handle follow-up questions.
+-   📚 **Dynamic Knowledge Base**: Ingests information from PDFs and live websites.
+-   🔎 **Source Transparency**: Displays references for every answer.
+-   ⚡ **Streaming Responses**: Token-by-token output for responsiveness.
+-   🛠️ **Developer Dashboard**: Manage prompts and knowledge base via a Streamlit admin app.
 
----
+------------------------------------------------------------------------
 
 ## 🧱 MLOps & Professional Practices
 
-- 🔄 **CI/CD**: Automated linting with **Ruff** using GitHub Actions.  
-- 📊 **Evaluation**: Built-in pipeline with **Ragas** to measure faithfulness, relevancy, and answer quality.  
-- 👁️ **Observability**: End-to-end tracing with **LangSmith**.  
-- 📦 **Containerization**: Fully reproducible deployments using **Docker**.  
-- 📝 **Prompt Management**: Externalized into version-controlled `prompts.yml`.  
+-   🔄 **CI/CD**: Automated linting with **Ruff** using GitHub Actions.\
+-   📊 **Evaluation**: Built-in pipeline with **Ragas** to measure faithfulness, relevancy, and answer quality.\
+-   👁️ **Observability**: End-to-end tracing with **LangSmith**.\
+-   📦 **Containerization**: Fully reproducible deployments using **Docker**.\
+-   📝 **Prompt Management**: Externalized into version-controlled `prompts.yml`.
 
----
+------------------------------------------------------------------------
 
 ## 🧬 Tech Stack
 
-- **Framework**: [Streamlit](https://streamlit.io/)  
-- **LLM Orchestration**: [LangChain](https://www.langchain.com/)  
-- **LLMs**: OpenAI GPT Models  
-- **Vector Store**: [Pinecone](https://www.pinecone.io/)  
-- **Observability**: [LangSmith](https://docs.smith.langchain.com/)  
-- **Evaluation**: [Ragas](https://docs.ragas.io/)  
-- **Deployment**: Docker + [Railway](https://railway.app/)  
-- **CI/CD**: GitHub Actions  
+-   **Framework**: [Streamlit](https://streamlit.io/)\
+-   **LLM Orchestration**: [LangChain](https://www.langchain.com/)\
+-   **LLMs**: OpenAI GPT Models\
+-   **Vector Store**: [Pinecone](https://www.pinecone.io/)\
+-   **Observability**: [LangSmith](https://docs.smith.langchain.com/)\
+-   **Evaluation**: [Ragas](https://docs.ragas.io/)\
+-   **Deployment**: Docker + [Railway](https://railway.app/)\
+-   **CI/CD**: GitHub Actions
 
----
+------------------------------------------------------------------------
 
 ## 🏗️ System Architecture
 
-This project uses a **monolithic architecture** where a single **Streamlit application** handles both the user interface and the RAG logic.  
+This project uses a **monolithic architecture** where a single **Streamlit application** handles both the user interface and the RAG logic.\
 Data ingestion is managed by an **offline script** (`ingest.py`).
 
 <p align="center">
-  <img src="Rag1.drawio.svg" alt="RAG Pipeline Diagram" width="800"/>
+
+<img src="RagPipelineN.drawio.svg" alt="RAG Pipeline Diagram" width="800"/>
+
 </p>
 
----
+------------------------------------------------------------------------
 
 ## ⚡ Getting Started
 
 ### ▶️ Running the Application
 
-1. **Access in Browser**
-   Open: `https://grantwritingassistantnhelp-production-c6ef.up.railway.app/`
+1.  **Access in Browser** Open: `https://grantwritingassistantnhelp-production-c6ef.up.railway.app/`
 
----
-
+------------------------------------------------------------------------
 
 ## 🖼️ Screenshots
 
 ![](RAGPoweredGrantWriter.png)
 
----
+------------------------------------------------------------------------
