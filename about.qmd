@@ -62,4 +62,4 @@ Resident \| Madhukar General Hospital, Pune, MH, India \| Jul 2008 - Dec 2008
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=prasadbhoite.prasadbhoite.github.io)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=prasadbhoite.prasadbhoite.github.io" alt="Visitor Badge" style="float: right; margin-left: 10px;"/>
