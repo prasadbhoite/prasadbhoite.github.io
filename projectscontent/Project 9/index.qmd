@@ -63,7 +63,7 @@ Data ingestion is managed by an **offline script** (`ingest.py`).
 
 <p align="center">
 
-<img src="RagPipelineN.drawio.svg" alt="RAG Pipeline Diagram" width="800"/>
+<img src="RagPipeline5.drawio.svg" alt="RAG Pipeline Diagram" width="800"/>
 
 </p>
 
