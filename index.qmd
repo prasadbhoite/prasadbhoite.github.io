@@ -34,5 +34,3 @@ Thank you for visiting!
 :::
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=55&section=footer" style="max-width: 160%; height: auto;"/>
 </p>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=prasadbhoite.prasadbhoite.github.io)
