@@ -10,9 +10,11 @@ title: "About"
 
 {{< fa heart title="A Heart">}} : Telling the story and meaningful insights out of data
 
+I enjoy staying active. I like biking ![A person on a bike](images/Cycling.gif){width="50"} and jogging ![A person Running](images/Running.gif){width="50"}
+
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>, I'm Prasad
 
-I am a Senior Data Scientist at Herbert Wertheim College of Medicine, Florida Intarnational University, Miami, USA.
+I am a Senior Data Scientist at Herbert Wertheim College of Medicine, Florida International University, Miami, USA.
 
 ## Education
 
@@ -42,7 +44,6 @@ Resident \| Madhukar General Hospital, Pune, MH, India \| Jul 2008 - Dec 2008
 
 ## Certifications & Badges
 
-
 -   <a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/30FC4120FD997B46?sharingId=A37ED2CA2783347"><img src="images/AZ-DataScientist-Badge.png" alt="Microsoft Certified: Azure Data Scientist Associate (DP-100)" width="220"/></a> [Microsoft Certified: Azure Data Scientist Associate (DP-100)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/30FC4120FD997B46?sharingId=A37ED2CA2783347)
 
 -   <a href="https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/602678976B03E6EF?sharingId=A37ED2CA2783347"><img src="images/AZ Data Engineer Badge.png" alt="Microsoft Certified: Azure Data Engineer Associate (DP-203)" width="220"/></a> [Microsoft Certified: Azure Data Engineer Associate (DP-203)](https://learn.microsoft.com/api/credentials/share/en-us/PrasadBhoite-6955/602678976B03E6EF?sharingId=A37ED2CA2783347)
@@ -58,8 +59,5 @@ Resident \| Madhukar General Hospital, Pune, MH, India \| Jul 2008 - Dec 2008
 ## Awards & Recognition
 
 ![](images/RISE_Award.jpeg)
-
-
-
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=prasadbhoite.prasadbhoite.github.io" alt="Visitor Badge" style="float: right; margin-left: 10px;"/>
