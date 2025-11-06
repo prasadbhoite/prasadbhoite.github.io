@@ -28,7 +28,7 @@ I am a Senior Data Scientist with 10+ years of experience building AI and machin
 My background combines clinical knowledge, statistical expertise, and computational skills, allowing me to design end-to-end AI/ML pipelines, from data engineering and feature engineering to model deployment and visualization. I am experienced in Python, R, SQL, MS-Azure, PowerBI, ArcGIS, and modern ML frameworks, including hands-on work with Generative AI, LLMs, and predictive modeling.
 
 I am passionate about leveraging AI to solve complex problems and delivering high-impact, scalable solutions that bridge research and real-world applications.
-I enjoy staying active. I like ![A person on a bike](images/Cycling.gif){width=50px height=50px} and ![A person jogging](images/Running.gif){width=50px height=50px}.
+I enjoy staying active.
 
 Thank you for visiting!
 :::
