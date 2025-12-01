@@ -17,8 +17,37 @@ Due to non-disclosure agreements, I am unable to showcase all of my projects her
 
 
 
+## [1: CorticoDB: Clinical Data Agent (Microservices AI app)](projectscontent/Project10/index.qmd){target="_blank"}
 
-## [1: Grant Writing Assistant (RAG powered AI app)](projectscontent/Project%209/index.qmd){target="_blank"}
+:::::: columns
+::: {.column width="40%"}
+[![](images/CorticoDB.png){width=340px height=460px}](projectscontent/Project10/index.qmd)
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+CorticoDB is an **agentic AI platform** designed to democratize access to complex clinical databases like MIMIC-III. Unlike standard chatbots, it uses a specialized Orchestrator Agent to intelligently query, generate SQL, and retrieve accurate patient data without hallucinations. Key features include:
+
+- 🤖 Agentic Workflow: Decoupled Orchestrator and RAG agents for reasoning vs. retrieval.
+- 🧠 Self-Healing Brain: RAG service automatically detects corruption and rebuilds its vector index on startup.
+- 🏥 Clinical Domain Intelligence: Specialized knowledge of 26+ complex healthcare tables.
+- 🛡️ BYOK Architecture: "Bring Your Own Key" security ensures user API keys are never stored server-side.
+- 🚀 Production DevOps: Fully containerized with Docker and deployed via a multi-environment (Staging/Prod) CI/CD pipeline.
+
+Built with: **React, FastAPI, ChromaDB, OpenAI, Docker, GitHub Actions, and Railway**. This project demonstrates Senior-level AI Engineering, moving beyond notebooks to a scalable, distributed cloud architecture. [Continue reading](projectscontent/Project%210/index.qmd){target="_blank"}, [explore the app](https://frontendreact-production-7599.up.railway.app/){target="_blank"}.  
+
+
+:::
+::::::
+
+
+
+
+## [2: Grant Writing Assistant (RAG powered AI app)](projectscontent/Project%209/index.qmd){target="_blank"}
 
 :::::: columns
 ::: {.column width="40%"}
@@ -49,7 +78,7 @@ Built with **Streamlit, LangChain, OpenAI GPT, Pinecone, Docker, GitHub Actions 
 
 
 
-## [2: Multilingual Virtual Research Assistant (MVRA)](projectscontent/Project%207/index.qmd){target="_blank"}
+## [3: Multilingual Virtual Research Assistant (MVRA)](projectscontent/Project%207/index.qmd){target="_blank"}
 
 :::::: columns
 ::: {.column width="40%"}
@@ -79,7 +108,7 @@ Built using Python, Streamlit, LLaMA API, and modular utilities, MVRA demonstrat
 
 
 
-## [3: Multi-Agent Job Application Assistant Crew](projectscontent/Project%208/index.qmd){target="_blank"}
+## [4: Multi-Agent Job Application Assistant Crew](projectscontent/Project%208/index.qmd){target="_blank"}
 
 :::::: columns
 ::: {.column width="40%"}
@@ -111,7 +140,7 @@ Built using Python, Streamlit, ChromaDB, and CrewAI agents, this project showcas
 
 
 
-## [4: Scientific Research Assistant](projectscontent/Project%206/index.qmd){target="_blank"}
+## [5: Scientific Research Assistant](projectscontent/Project%206/index.qmd){target="_blank"}
 
 :::::: columns
 ::: {.column width="40%"}
@@ -140,7 +169,7 @@ The app was built using Python, Streamlit, and OpenAI’s API, and is packaged w
 
 
 
-## [5: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms](projectscontent/Project%201/VaccineHesitancy_PBB.pdf){target="_blank"}
+## [6: Predicting COVID-19 Vaccine Hesitancy Among US Adults Using Classification Algorithms](projectscontent/Project%201/VaccineHesitancy_PBB.pdf){target="_blank"}
 
 :::::: columns
 ::: {.column width="55%"}
@@ -161,7 +190,7 @@ The primary focus of this project revolves around predicting COVID-19 vaccine he
 
 
 
-## [6: Business Intelligence Projects](projectscontent/Project%204/index.qmd)
+## [7: Business Intelligence Projects](projectscontent/Project%204/index.qmd)
 
 :::::: columns
 ::: {.column width="40%"}
@@ -181,7 +210,7 @@ This page displays the gallery of end-to-end business intelligence projects that
 
 
 
-## [7: Data Warehouse/Data Engineering Project](){target="_blank"}
+## [8: Data Warehouse/Data Engineering Project](){target="_blank"}
 
 :::::: columns
 ::: {.column width="40%"}
@@ -200,7 +229,7 @@ In this project, I played a pivotal role as the lead architect, responsible for 
 
 
 
-## [8: Using `R` to Extract, Organize, & Analyze Complex SDOH Data](https://rpubs.com/igonz009/953071){target="_blank"}
+## [9: Using `R` to Extract, Organize, & Analyze Complex SDOH Data](https://rpubs.com/igonz009/953071){target="_blank"}
 
 :::::: columns
 ::: {.column width="55%"}
@@ -225,7 +254,7 @@ This presentation takes you through the example and code snippets to show how R 
 
 
 
-## [9: Effortless Access to Household Pulse Survey Datasets with `hpsr`: An `R` Data Package](https://prasadbhoite.github.io/hpsr/){target="_blank"}
+## [10: Effortless Access to Household Pulse Survey Datasets with `hpsr`: An `R` Data Package](https://prasadbhoite.github.io/hpsr/){target="_blank"}
 
 :::::: columns
 ::: {.column width="55%"}

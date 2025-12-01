@@ -1,0 +1,122 @@
+---
+title: "CorticoDB- Clinical Data Agent (Text to SQL AI App)"
+author: "Prasad Bhoite"
+#date: "2025-11-30"
+categories: [LLM, ChromaDB, Langgraph, React, Docker, CI/CD, LLMOps, Langsmith, Railway, FASTAPI]
+image: ""
+---
+
+::: {align="center"}
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FDE500&center=true&vCenter=true&width=850&lines=Text-to-SQL+Agent+for+MIMIC-III;Self-Healing+RAG+Architecture;Production-Grade+CI%2FCD+Pipeline%22%20alt=%22Typing%20Animation)
+:::
+
+<p align="center">
+
+<a href="https://www.python.org/"> ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) </a>
+<a href="https://www.langchain.com/langgraph">
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+</a>
+<a href="https://react.dev/"> ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) </a> 
+<a href="https://www.trychroma.com/">
+  <img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge" />
+</a>
+
+<a href="https://openai.com/"> ![](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) </a> <a href="https://www.pinecone.io/"> <img src="https://img.shields.io/badge/Pinecone-3C55F2?style=for-the-badge&amp;logo=pinecone&amp;logoColor=white"/> </a> <a href="https://www.docker.com/"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/> </a> <a href="https://astral.sh/uv"> <img src="https://img.shields.io/badge/uv-4C4CF1?style=for-the-badge&amp;logo=uv&amp;logoColor=white"/> <a href="https://docs.github.com/en/actions"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white"/> </a> <a href="https://fastapi.tiangolo.com/"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/> </a> <a href="https://docs.ragas.io/"> <img src="https://img.shields.io/badge/Ragas-00C5C5?style=for-the-badge&amp;logo=ragas&amp;logoColor=white"/> </a> <a href="https://www.langchain.com/langsmith"> <img src="https://img.shields.io/badge/LangSmith-FB923C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/> </a> <a href="https://railway.app/"> <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&amp;logo=railway&amp;logoColor=white"/> </a>
+
+</p>
+
+::: {.callout-tip icon="🧑‍💼"}
+
+**CorticoDB** is an Agentic Text to SQL AI platform that democratizes access to complex
+clinical databases---specifically the MIMIC-III ICU database---using
+natural language queries.\
+
+Unlike standard chatbots, CorticoDB avoids hallucinations using an
+Agentic Orchestrator that:
+
+-   Consults a RAG Knowledge Base\
+-   Generates syntactically correct PostgreSQL SQL\
+-   Safely executes SQL\
+-   Returns real data with full accuracy
+
+:::
+
+------------------------------------------------------------------------
+
+## 🚀 Features
+
+- 🤖 Agentic Workflow: Decoupled Orchestrator and RAG agents for reasoning vs. retrieval.
+- 🧠 Self-Healing Brain: RAG service automatically detects corruption and rebuilds its vector index on startup.
+- 🏥 Clinical Domain Intelligence: Specialized knowledge of 26+ complex healthcare tables.
+- 🛡️ BYOK Architecture: "Bring Your Own Key" security ensures user API keys are never stored server-side.
+- 🚀 Production DevOps: Fully containerized with Docker and deployed via a multi-environment (Staging/Prod) CI/CD pipeline. admin app.
+
+------------------------------------------------------------------------
+
+## 🧱 MLOps & Professional Practices
+-   🔄 **CI/CD**: Automated multi-environment deployment pipeline (Dev $\to$ Staging $\to$ Production) using GitHub Actions.\
+-   🏗️ **Architecture**: Decoupled Microservices (React Frontend, FastAPI Orchestrator, ChromaDB Agent) ensuring modularity and independent scaling.\
+-   👁 **Observability**: End-to-end request tracing with **LangSmith** to monitor RAG retrieval quality and SQL generation latency.\
+-   📦 **Containerization**: Optimized, multi-stage Docker images for both Python (FastAPI/UV) and Node.js (Vite) services.\
+-   🧠 **Resiliency**: Self-Healing RAG agent that automatically detects vector store corruption and rebuilds its "Brain" from configuration on startup.\
+-   🛡️ **Security**: Strict 12-Factor App configuration with split secrets for isolated Staging and Production environments.
+
+------------------------------------------------------------------------
+
+## 🧬 Tech Stack
+
+-   **Framework**: [React](https://react.dev/)\
+-   **LLM Orchestration**: [LangChain](https://www.langchain.com/)\
+-   **LLMs**: OpenAI GPT Models\
+-   **Vector Store**: [Pinecone](https://www.pinecone.io/)\
+-   **Observability**: [LangSmith](https://docs.smith.langchain.com/)\
+-   **Evaluation**: [Ragas](https://docs.ragas.io/)\
+-   **Deployment**: Docker + [Railway](https://railway.app/)\
+-   **CI/CD**: GitHub Actions
+
+------------------------------------------------------------------------
+
+## 🏗️ System Architecture
+
+This project utilizes a distributed **microservices architecture**, decoupling the user interface, orchestration logic, and knowledge retrieval into independent, scalable containers.
+
+The system is composed of three primary services communicating via REST APIs:
+
+**Frontend**: A modern React (Vite) application that provides the chat interface.
+
+**Orchestrator**: A FastAPI service that manages logic, sanitizes inputs, and communicates with OpenAI.
+
+**RAG Agent**: A specialized Microservice (FastAPI + ChromaDB) that acts as the system's "Brain," performing semantic search over the database schema.
+
+
+<p align="center">
+
+<img src="RagPipeline5.drawio.svg" alt="RAG Pipeline Diagram" width="800"/>
+
+</p>
+
+------------------------------------------------------------------------
+
+## ⚡ Getting Started
+
+### ▶️ Running the Application
+
+1.  **Access in Browser** Open: `https://frontendreact-production-7599.up.railway.app/`
+
+------------------------------------------------------------------------
+
+## 🖼️ Screenshots
+
+### 1. Landing Page:
+
+![](1.LandingPage.png)
+
+
+### 2. Simple Data Extraction:
+
+![](2.SimpleDataExtraction.png)
+
+
+### 3. Group By:
+![](3.GroupBy.png)
+------------------------------------------------------------------------
